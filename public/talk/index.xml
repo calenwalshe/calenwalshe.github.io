@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks | R. Calen Walshe</title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
+    
+    <item>
+      <title>Research progress report</title>
+      <link>/talk/cps_brown/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/cps_brown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A new method to calculate classification accuracy.</title>
+      <link>/talk/vss2019_abh/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/vss2019_abh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comparing Bayes optimal search performance with human search.</title>
+      <link>/talk/vss2019/</link>
+      <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/vss2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Presenting work on detection, natural signals and scene statistics.</title>
+      <link>/talk/faculty/</link>
+      <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>/talk/faculty/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
