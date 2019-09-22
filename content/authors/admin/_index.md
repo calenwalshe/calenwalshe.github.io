@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-  , 
-
 My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain senses information from the visual world, then how it converts a perception into intelligent action. To discover how biology implements these intricate solutions I use a combination of experiments and modeling to develop theories about neural information processing. 
