@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | R. Calen Walshe</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain senses information from the visual world, then how it converts a perception into intelligent action. To discover how biology implements these intricate solutions I use a combination of experiments and modeling to develop theories about neural information processing.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>et al.</title>
+      <link>/authors/et-al./</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/et-al./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang, R.</title>
+      <link>/authors/zhang-r./</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/authors/zhang-r./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Antje Nuthmann</title>
+      <link>/authors/antje-nuthmann/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/authors/antje-nuthmann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McColeman, C., Barnes, J., Chen, L., Meier, K., Walshe, R.C. &amp; Blair, M.</title>
+      <link>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blair, M., Watson, M., Walshe, R.C., Maj, F.</title>
+      <link>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
