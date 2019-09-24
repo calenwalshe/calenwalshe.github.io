@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/tags/academic/</link>
-      <atom:link href="/calenwalshe.github.io/tags/academic/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/academic/</link>
+      <atom:link href="/tags/academic/index.xml" rel="self" type="application/rss+xml" />
     <description>Academic</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Academic</title>
-      <link>/calenwalshe.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
     </image>
     
     <item>
       <title>Is there something so unbelievable that you would assign it probability 0?</title>
-      <link>/calenwalshe.github.io/post/unbelieve/</link>
+      <link>/post/unbelieve/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/unbelieve/</guid>
+      <guid>/post/unbelieve/</guid>
       <description>&lt;p&gt;How much evidence do you need to be convinced in something that is very implausible is actually the case? Or rather, if you really don&amp;rsquo;t believe something to be true, how much evidence do you need to push you all the way to near certainty?&lt;/p&gt;
 
 &lt;p&gt;Of course, this is a question about probabilities so we aren&amp;rsquo;t talking about any kind of knowledge that can be gained without evidence. The kind, for example, where we make definitions and then reason according to a set of rules to get some new knowledge. This kind of reasoning is common in mathematics or law. Most scientific laws, and especially in the rough and tumble world of knowledge in the real world (is this burger fully cooked, is Jones going to arrive late for the meeting again etc&amp;hellip;) we are always working with probability and hence using some data to assign a definite number to a possible state of the world.&lt;/p&gt;
@@ -47,16 +47,16 @@
     
     <item>
       <title>&#34;Bringing machine learning to vision science before it was hot&#34;</title>
-      <link>/calenwalshe.github.io/post/visionscience/</link>
+      <link>/post/visionscience/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/visionscience/</guid>
+      <guid>/post/visionscience/</guid>
       <description>&lt;p&gt;I probably should have seen this prior to now but there is a lot to read and even good stuff slips through the cracks. It was suggested to a colleague and he presented the work during a journal club. I was impressed by the work.&lt;/p&gt;
 
 &lt;p&gt;Visual salience has been a hot term in vision science since the 90s. The salience model identifies local regions in an image that have higher priority than other local regions. Sometimes it is used to mean areas of an image that will many fixations and sometimes it is used for properties of the image that attract attention without necessarily leading to an eye-movement.&lt;/p&gt;
 
 &lt;p&gt;The schematic shows the basic idea behind the salience model. These ideas were inspired by the understanding the authors had at the time of how visual information propagates through the primate visual system. These ideas are still influential today and even if researchers don&amp;rsquo;t work on the salience model itself there are a lot of interest in the components of the salience model as individual research topics. The idea that the neural code expresses maps of one kind or another is probably the best hope we have of decoding the computations in the brain at a sufficiently rich level.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; alt=&#34;Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; alt=&#34;Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The schematic also shows that there are a lot of moving parts in the salience model. It is a complicated model and this has lead to many arguements. In my opinion, many of the debates over the salience model have been needlessly fussy.&lt;/p&gt;
 
@@ -66,7 +66,7 @@
 
 &lt;p&gt;The summary figure for the machine learnt salient shows how their setup works. They learn the kernels from the eye-movement data. Their model learned four kernels. Local image regions are filtered by the kernels, then passed through a point non-linearity and summed up. The resulting value is the salience. There are some additional analyses showing performs comparably to the salience model on several metrics.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts//jov-9-5-7-fig004.jpeg&#34; alt=&#34;jov-9-5-7-fig004.jpeg&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts//jov-9-5-7-fig004.jpeg&#34; alt=&#34;jov-9-5-7-fig004.jpeg&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;This paper is not new, and since this there have been more applications of machine learning to salience. Their approach is simple and successful. As a technical advance there is clear progress. Like many approaches to studying biological vision with machine learning there is a tradeoff between opacity and predictability. Some models are hard to understand but predict well, while others perform conversely. The Kienzle et al. method is not as black box as some others but the connection to the underlying biology is less clear than in the salience model.&lt;/p&gt;
 </description>
@@ -74,9 +74,9 @@
     
     <item>
       <title>Nature is pretty good at building machines.</title>
-      <link>/calenwalshe.github.io/post/normalization/</link>
+      <link>/post/normalization/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/normalization/</guid>
+      <guid>/post/normalization/</guid>
       <description>&lt;p&gt;I think a lot about detection and estimation problems. A detection problem is one in which it pays off to identify the presence or absence of a signal amongst some background noise. This is a problem that has applications all over the place. Transmission of data over the internet relies on detection of discrete pulses encoded in an analog signal. Doctors &amp;quot;detect&amp;quot; cancerous masses in images taken with an x-ray or other technology. Estimation is a different but related problem. In an estimation problem the challenge is to figure out which state the world is in when we only receive some noisy corrupted sample from the world. It is like detection but with estimation we want more than &amp;quot;yes&amp;quot; or &amp;quot;no&amp;quot; we want to know the value behind the noisy samples.&lt;/p&gt;
 
 &lt;p&gt;I think about detection and estimation because they are problems that visual systems are confronted with all the time. They are both problems that biology has solved over and over again to allow organisms to use sense data (signals encoded by the sense organs like the eyes and ears) to understand the environment they are in.&lt;/p&gt;
@@ -93,7 +93,7 @@
 
 &lt;p&gt;The left panel has the results of the no normalization experiment and the right panel has the normalized results. The different coloured lines show what happens when we try and combine different numbers of samples. When averaging things we generally expected the estimate to get better with more samples, normalization or not. The x axis is the way I set the range of noisy units (neurons) in this experiment. The range of variances in the sample range from 0 to an upper limit. The x axis shows that upper limit. A value of 20 here means that the variances of the sample population are from 1 to 20. The values on the y axis is the measure of error. Larger values mean worse estimation performance.&lt;/p&gt;
 
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/normalization.png&#34; alt=&#34;normalization&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/img/posts/normalization.png&#34; alt=&#34;normalization&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;To reiterate the analogy to neurons: a single sample is a hypothetical response of a single neuron; all of the samples form a population of neurons. The samples are combined either in a normalized or unnormalized way; the same problem would be true for the population of neurons as well. Neurons differ in how noisy they are, so any rule that combines them would need to take the variation in reliability into account.&lt;/p&gt;
 
@@ -146,9 +146,9 @@ param.frame.data.unnest &amp;lt;- param.frame.data %&amp;gt;%
     
     <item>
       <title>On news addiction and reading good things not more things.</title>
-      <link>/calenwalshe.github.io/post/information/</link>
+      <link>/post/information/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/information/</guid>
+      <guid>/post/information/</guid>
       <description>&lt;p&gt;Patterns that reduce uncertainty about some aspect of the world are called information. Open your curtains in the morning, see a certain amount of light. Opening your window gives you some information about what time of the morning it is. More light is a pretty reliable way of approximating the time during sunrise.&lt;/p&gt;
 
 &lt;p&gt;Speaking generally, it always seems right that more information is a good thing. If getting more information reduces our uncertainty and we want to be more certain, then collect as much information as possible. This feels right. In fact, it feels so right that it is the default operating mode for most people. Reading news daily or watching news hourly is a pretty common pasttime. The goal here must be to reduce the uncertainty we have about the world. When the news isn&#39;t out with a straighforward mission to decieve us we&#39;ll be getting some good nuggets of information that we can store away for later use in our quest to understand the world. Sure, some of those nuggets will be worse than others but we believe that information accumulates so we&#39;ll take what we can get.&lt;/p&gt;
@@ -170,10 +170,10 @@ param.frame.data.unnest &amp;lt;- param.frame.data %&amp;gt;%
 &lt;p&gt;For situation 2 set n.good to some number and set total.samples to some value lower than that. Then increase p.bad and see what happens. What this does is increase the proportion of low information samples relative to high information samples. The figures show what happens.&lt;/p&gt;
 
 &lt;p&gt;In the following, the proportion of bad samples increases and information goes down.
-&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/info.sample_bad.png&#34; alt=&#34;a&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;/img/posts/info.sample_bad.png&#34; alt=&#34;a&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;Next, the total number of samples increase and all are sampled, and the information goes up.
-&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/info.sample_good.png&#34; alt=&#34;b&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;/img/posts/info.sample_good.png&#34; alt=&#34;b&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;g &amp;lt;- function(n.good, p.bad, total.samples) {
   n.good &amp;lt;- n.good
@@ -202,9 +202,9 @@ snr.frame &amp;lt;- data.frame(x = seq(0, 1, .01), y = unlist(out.vals))
     
     <item>
       <title>When playing Magnus Carlsen, play him twice.</title>
-      <link>/calenwalshe.github.io/post/probability_puzzle/</link>
+      <link>/post/probability_puzzle/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/probability_puzzle/</guid>
+      <guid>/post/probability_puzzle/</guid>
       <description>&lt;p&gt;The Monty Hall puzzle is entertaining because the result turns out to be counter to intuition. Those are the most entertaining puzzles. The family of puzzles like Monty Hall are so contrived that they don&#39;t resemble reality. Reality, especially when chance and probability is involved is not expected to be &lt;em&gt;more&lt;/em&gt; intuitive than these puzzles. I like them because they are fun to think about but they also remind me how easy it for intuition to lead to wrong conclusions when not applied under the right circumstances.&lt;/p&gt;
 
 &lt;p&gt;Here is another puzzle that resembles the Monty Hall in this regard.&lt;/p&gt;
@@ -235,9 +235,9 @@ snr.frame &amp;lt;- data.frame(x = seq(0, 1, .01), y = unlist(out.vals))
     
     <item>
       <title>Did Monty consider that someone might want the goat?</title>
-      <link>/calenwalshe.github.io/post/montyhall/</link>
+      <link>/post/montyhall/</link>
       <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/montyhall/</guid>
+      <guid>/post/montyhall/</guid>
       <description>&lt;p&gt;The Monty Hall problem is a classic. I like it because it posed with simple language and hides it&amp;rsquo;s complexity. The first time you hear the puzzle you have a good chance of answering correctly (&lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt;). However, once you start to think about the &lt;em&gt;reason&lt;/em&gt; for your answer you might need to grab a beer and get ready to think a little bit. &lt;a href=&#34;http://www.wired.com/2014/11/monty-hall-erdos-limited-minds/&#34; target=&#34;_blank&#34;&gt;As the story goes&lt;/a&gt;, one of the 20th centuries most famous mathematicians, Paul Erdos, needed several days before he was convinced by the truth of the proposed solution.&lt;/p&gt;
 
 &lt;p&gt;For a full description of the game check out the &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Hall_problem&#34; target=&#34;_blank&#34;&gt;wikipedia page&lt;/a&gt;. The version I&amp;rsquo;m going to describe is stripped down.&lt;/p&gt;
@@ -280,16 +280,16 @@ sum(swap == car)/length(car) # proportion of swapped choices that match the car 
     
     <item>
       <title>Where in the world is red?</title>
-      <link>/calenwalshe.github.io/post/colour/</link>
+      <link>/post/colour/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/colour/</guid>
+      <guid>/post/colour/</guid>
       <description>&lt;p&gt;I had a coffee on campus with a friend in the Engineering department. To him, it was completely obvious that the way that perception &lt;em&gt;should&lt;/em&gt; work is that your perceptions should recover exactly what is contained in the distribution of light that strikes the eye. It was an interesting discussion and the following sums up some of our discussion.&lt;/p&gt;
 
 &lt;p&gt;The story of colour vision begins in a part of the eye known as the retina. Within the retina there are hundreds of millions of photosensitive cells called photoreceptors. The primary role of these cells is to convert light (electromagnetic radiation) into electrochemical signals that are passed to regions of the brain that are responsible for vision. In primates, the most important early visual area is called Striate cortex and is located at the back of the brain.&lt;/p&gt;
 
 &lt;p&gt;The type of photoreceptor that takes care of signaling colour is called a cone and primates have three different types of them. Each of the cone classes is distinguished by the wavelength of electromagnetic radiation that they are most sensitive to. L-cones have the strongest response to long wavelength, M-cones respond to medium wavelengths and S-cones respond to short wavelengths.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/cone_sensitivity.gif&#34; alt=&#34;Cone Sensitivity&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/cone_sensitivity.gif&#34; alt=&#34;Cone Sensitivity&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;When light strikes the retina the responses of these three different cone classes are combined. The relative responses of these three different types of cones forms that basis of the brains ability to estimate the distribution of the incoming light and perceive it as a particular colour.&lt;/p&gt;
 
@@ -301,7 +301,7 @@ sum(swap == car)/length(car) # proportion of swapped choices that match the car 
 
 &lt;p&gt;Colour constancy is the label that is used to describe an aspect of perception in which an object is perceived to have a relatively uniform colour despite large variations in the wavelengths being emitted from the object. The following illusion is a stark demonstration of this principle. In the illusion, the patches labelled A and B are actually the exact same colour even though the perception of the patches is very different. This is colour constancy at work. The brain is doing some work to estimate the colour that would be expected based on the surrounding context and is discounting the colour that is actually being emitted from the patch.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/grid_illusion.png&#34; alt=&#34;Grid Illusion&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/grid_illusion.png&#34; alt=&#34;Grid Illusion&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Colour metamers also show that the colour of light and the emitted wavelength are not one and the same. A colour metamer occurs when the perceived colour is identical but the spectral power distribution is completely different. The existence of metamers comes about because the retina is compressing a continuous distribution of wavelengths into responses of three different cone classes.&lt;/p&gt;
 
@@ -311,9 +311,9 @@ sum(swap == car)/length(car) # proportion of swapped choices that match the car 
     
     <item>
       <title>On the lives lost in the sinking of the Titanic.</title>
-      <link>/calenwalshe.github.io/post/titanic/</link>
+      <link>/post/titanic/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/titanic/</guid>
+      <guid>/post/titanic/</guid>
       <description>&lt;p&gt;The Titanic left on it&amp;rsquo;s maiden voyage on April 10, 1912 from Southampton to New York City.
 It is one of the most recognizable and iconic disasters of the 20th century. Of the 2,224 passengers and crew that set sail about 1500 of them perished when the ship
 hit an iceberg in the North Atlantic. The catastrophe led to Engineers rethinking the idea that a combination of hull size and durable steel would result in
@@ -392,16 +392,16 @@ a first class ticket were not only given greater luxury but their lives were giv
 
 &lt;p&gt;Events like the Titanic can be highly revelatory. The Titanic was an important event in changing opinions about disaster preparedness. Large scale, unusual, and impactful events do not occur very often but when they do their novelty provides a unique window into the operation of systems that often remain obscured from view.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/Gender.bmp&#34; alt=&#34;Gender&#34; /&gt;
-&lt;img src=&#34;/calenwalshe.github.io/img/posts/Class.bmp&#34; alt=&#34;Class&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/Gender.bmp&#34; alt=&#34;Gender&#34; /&gt;
+&lt;img src=&#34;/img/posts/Class.bmp&#34; alt=&#34;Class&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Princess Bride does game theory.</title>
-      <link>/calenwalshe.github.io/post/vizini/</link>
+      <link>/post/vizini/</link>
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/vizini/</guid>
+      <guid>/post/vizini/</guid>
       <description>&lt;p&gt;The Alamo Draft House is a local theatre company here in Austin. Their bread and butter is putting on the current hits but they also make a solid focus on showing cult hits. Over at the Ritz yesterday they put on the Princess Bride (1987) a love story staring a young Claire Underwood (Robin Wright) in the innocent days before being corrupted by Frank and the dirty lies of the US Senate.&lt;/p&gt;
 
 &lt;p&gt;One of the great scenes in this film is when the masked hero, Wesley, challenges Vizzini, one of the villians, to a battle of wits. The scene is humourous, but it has some underlying lessons for students of game theory and the psychology of human decision making. The scene begins as Vizzini clutches the Princess Buttercup (aka Claire Underwood/Robin Wright) and theatens to kill her if the hero Wesley steps any closer. Vizzini has cause to be worried, Wesley has just won a duel with a master swordsman and rendered a Giant unconscious in hand to hand combat. Vizzini does not possess any physical strength, but he does proclaim himself to have a massive intellect. Here is what Vizzini has to say about himself:&lt;/p&gt;
@@ -496,24 +496,24 @@ a first class ticket were not only given greater luxury but their lives were giv
     
     <item>
       <title>History is beautiful.</title>
-      <link>/calenwalshe.github.io/post/history/</link>
+      <link>/post/history/</link>
       <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/history/</guid>
+      <guid>/post/history/</guid>
       <description>&lt;p&gt;A historical map distributed by the Rand McNally company. Time goes down the map and the relative size of the empire is given by the amount of area that it takes up at any specific time. What strikes me is the historical continuity presented in the map. For example, the Chinese empires rose and fell, but the civilization itself has remained active throughout all of recorded history.&lt;/p&gt;
 
 &lt;p&gt;We can also see the emergence of the Roman Empire in classical antiquity and its scale on the map shows the behemoth that it became. Rome was in conflict with all other major powers. Roman gains translated directly into losses for the other empires.&lt;/p&gt;
 
 &lt;p&gt;I&amp;rsquo;m interested to know more about how the Persian empire transitioned into the Seleucid and Bactrian Kingdoms. Furthermore, what was the relationship between the Persians of ancient antiquity and the Sassanian Persians? The greatest asset of such a map is its ability to stimulate such questions.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/posts/histomap.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/posts/histomap.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Come out to a public talk I&#39;ll be giving on UT campus.</title>
-      <link>/calenwalshe.github.io/post/public_talk/</link>
+      <link>/post/public_talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/public_talk/</guid>
+      <guid>/post/public_talk/</guid>
       <description>&lt;p&gt;A talk is planned at the Molatov Seminar series on Friday, October 12, 2018. The Molatov Seminars is described by its organizers as: &amp;ldquo;Molotov Seminar hosts talks at UT by anyone, for anyone, on anything.&amp;rdquo;&lt;/p&gt;
 
 &lt;p&gt;I plan to do just that and will discuss economic inequality from a statistical perspective. A topic I don&amp;rsquo;t work on professionally but am very interested. I hope to stimulate a good discussion at the least.&lt;/p&gt;
