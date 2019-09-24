@@ -2,70 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/authors/</link>
-      <atom:link href="/calenwalshe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/calenwalshe.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/calenwalshe.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain converts visual perception into intelligent action. The approach that I take in my research combines behavioral experiments and machine learning methods. The goal of the work is to develop theories about how the brain implements efficient and robust information processing strategies to solve basic perceptual tasks such as object recognition and search.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>et al.</title>
-      <link>/calenwalshe.github.io/authors/et-al./</link>
+      <link>/authors/et-al./</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/et-al./</guid>
+      <guid>/authors/et-al./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhang, R.</title>
-      <link>/calenwalshe.github.io/authors/zhang-r./</link>
+      <link>/authors/zhang-r./</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/zhang-r./</guid>
+      <guid>/authors/zhang-r./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antje Nuthmann</title>
-      <link>/calenwalshe.github.io/authors/antje-nuthmann/</link>
+      <link>/authors/antje-nuthmann/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/antje-nuthmann/</guid>
+      <guid>/authors/antje-nuthmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>McColeman, C., Barnes, J., Chen, L., Meier, K., Walshe, R.C. &amp; Blair, M.</title>
-      <link>/calenwalshe.github.io/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</link>
+      <link>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nuthmann, A.</title>
-      <link>/calenwalshe.github.io/authors/nuthmann-a./</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/nuthmann-a./</guid>
+      <guid>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blair, M., Watson, M., Walshe, R.C., Maj, F.</title>
-      <link>/calenwalshe.github.io/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</link>
+      <link>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</guid>
+      <guid>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</guid>
       <description></description>
     </item>
     

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhang, R. | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/authors/zhang-r./</link>
-      <atom:link href="/calenwalshe.github.io/authors/zhang-r./index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/zhang-r./</link>
+      <atom:link href="/authors/zhang-r./index.xml" rel="self" type="application/rss+xml" />
     <description>Zhang, R.</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Zhang, R.</title>
-      <link>/calenwalshe.github.io/authors/zhang-r./</link>
+      <link>/authors/zhang-r./</link>
     </image>
     
     <item>
       <title>Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset</title>
-      <link>/calenwalshe.github.io/publication/deep/</link>
+      <link>/publication/deep/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/publication/deep/</guid>
+      <guid>/publication/deep/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
