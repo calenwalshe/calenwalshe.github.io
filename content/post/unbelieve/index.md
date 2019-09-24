@@ -39,7 +39,7 @@ Let's think about an interesting case. You believe that something is very implau
 
 But how many more guesses would be need to get to really make a big dent in my belief about their powers of clairvoyance? The answer is that with a prior that low more evidence will certainly result in a change in my beliefs but it will never approach certainty. There are always some alternative hypothesis that I would entertain that could explain the data I'm observing. These alternatives might also be extremely low, say down at around -50 dB but the important point is that there are competitor hypotheses that are at least more plausible to me than clairvoyance.
 
-This kind of thinking comes from a straightforward application of Bayes rule to combine evidence and prior beliefs to determine the probability of a hypothesis.
+This kind of thinking comes from a straightforward application of Bayes' rule to combine evidence and prior beliefs to determine the probability of a hypothesis.
 
 For the clairvoyance case: C is the proposition that the person has clairvoyance and D is the proposition that they got some number of guesses correct.
 

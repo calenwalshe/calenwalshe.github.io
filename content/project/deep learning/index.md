@@ -1,9 +1,9 @@
 ---
-title: Deep learning from human eye movements
-summary: Including human eye movements in a deep network improves action prediction in ATARI games.
+title: Using deep learning to predict human gaze and human action.
+summary: Incorporating human gaze improves imitation learning of human actions in ATARI games.
 tags:
 - machine_learning 
-date: "2016-04-27T00:00:00Z"
+date: "2019-09-21"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

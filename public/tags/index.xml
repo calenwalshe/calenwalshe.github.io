@@ -5,12 +5,20 @@
     <link>/calenwalshe.github.io/tags/</link>
       <atom:link href="/calenwalshe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>Tags</title>
       <link>/calenwalshe.github.io/tags/</link>
     </image>
+    
+    <item>
+      <title>machine_learning</title>
+      <link>/calenwalshe.github.io/tags/machine_learning/</link>
+      <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/tags/machine_learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Academic</title>
@@ -33,14 +41,6 @@
       <link>/calenwalshe.github.io/tags/eye_movements/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/tags/eye_movements/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>machine_learning</title>
-      <link>/calenwalshe.github.io/tags/machine_learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/machine_learning/</guid>
       <description></description>
     </item>
     
