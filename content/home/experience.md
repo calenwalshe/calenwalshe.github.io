@@ -61,7 +61,6 @@ The University of Texas at Austin, Center for Perceptual Systems and The Institu
   date_start = "2005-01-01"
   date_end = "2009-08-01"
   description = """
-  My questions:
 
   """
 +++

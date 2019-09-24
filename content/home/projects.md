@@ -30,7 +30,7 @@ subtitle = ""
     tag = "eye_movements"
   
   [[content.filter_button]]
-    name = "Signal Detection"
+    name = "Visual Perception"
     tag =  "signal_detection"
 
   [[content.filter_button]]

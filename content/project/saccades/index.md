@@ -1,6 +1,6 @@
 ---
-title: Modelling saccades
-summary: Saccades in natural scenes
+title: Saccadic Decision Making
+summary: How does the visual system decide when the model the eyes when encoding natural scenes?
 tags:
 - eye_movements
 date: "2016-04-27T00:00:00Z"
