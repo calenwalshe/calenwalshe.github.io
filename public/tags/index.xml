@@ -29,10 +29,10 @@
     </item>
     
     <item>
-      <title>detection</title>
-      <link>/tags/detection/</link>
+      <title>eye_movements</title>
+      <link>/tags/eye_movements/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/detection/</guid>
+      <guid>/tags/eye_movements/</guid>
       <description></description>
     </item>
     
@@ -45,34 +45,10 @@
     </item>
     
     <item>
-      <title>retina</title>
-      <link>/tags/retina/</link>
+      <title>signal_detection</title>
+      <link>/tags/signal_detection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/retina/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>saccades</title>
-      <link>/tags/saccades/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/saccades/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>search</title>
-      <link>/tags/search/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>texture</title>
-      <link>/tags/texture/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/texture/</guid>
+      <guid>/tags/signal_detection/</guid>
       <description></description>
     </item>
     

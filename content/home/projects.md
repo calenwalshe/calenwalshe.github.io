@@ -26,29 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Saccades"
-    tag = "saccades"
+    name = "Eye movements"
+    tag = "eye_movements"
   
   [[content.filter_button]]
-    name = "Search"
-    tag =  "search"
-
-  [[content.filter_button]]
-    name = "Detection"
-    tag = "detection"
-
-  [[content.filter_button]]
-    name = "Retina"
-    tag = "retina"
-
-  [[content.filter_button]]
-    name = "Texture"
-    tag = "texture"
+    name = "Signal Detection"
+    tag =  "signal_detection"
 
   [[content.filter_button]]
     name = "Machine Learning"
     tag = "machine_learning"
-
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

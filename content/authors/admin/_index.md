@@ -70,4 +70,4 @@ user_groups:
 - Visitors
 ---
 
-My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain senses information from the visual world, then how it converts a perception into intelligent action. To discover how biology implements these intricate solutions I use a combination of experiments and modeling to develop theories about neural information processing. 
+My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain converts visual perception into intelligent action. The approach that I take in my research combines behavioral experiments and machine learning methods. The goal of the work is to develop theories about how the brain implements efficient and robust information processing strategies to solve basic perceptual tasks such as object recognition and search.

@@ -153,7 +153,12 @@
   </url>
   
   <url>
-    <loc>/project/machine_learning/</loc>
+    <loc>/project/classify/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/deep-learning/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -163,12 +168,12 @@
   </url>
   
   <url>
-    <loc>/tags/detection/</loc>
+    <loc>/project/texture/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/project/texture/</loc>
+    <loc>/tags/eye_movements/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -193,22 +198,7 @@
   </url>
   
   <url>
-    <loc>/tags/retina/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/saccades/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/search/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/texture/</loc>
+    <loc>/tags/signal_detection/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   

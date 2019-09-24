@@ -2,7 +2,7 @@
 title: Optimal Search in Scenes
 summary: We developed an algorithm to optimally search in natural scenes. We tested humans against our optimal benchmark.
 tags:
-- search 
+- eye_movements
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

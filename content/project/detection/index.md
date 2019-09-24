@@ -2,7 +2,7 @@
 title: Detecting objects in natural scenes.
 summary: We build a statistically near-optimum detector and compare this with human behavior.
 tags:
-- detection 
+- signal_detection
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -2,7 +2,7 @@
 title: A model of the retina
 summary: We built a model of the retina and then use it to estimate fundamental limits of human visual capabilities.
 tags:
-- retina
+- signal_detection
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
