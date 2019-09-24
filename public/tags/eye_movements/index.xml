@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>eye_movements | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/tags/eye_movements/</link>
-      <atom:link href="/calenwalshe.github.io/tags/eye_movements/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/eye_movements/</link>
+      <atom:link href="/tags/eye_movements/index.xml" rel="self" type="application/rss+xml" />
     <description>eye_movements</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>eye_movements</title>
-      <link>/calenwalshe.github.io/tags/eye_movements/</link>
+      <link>/tags/eye_movements/</link>
     </image>
     
     <item>
       <title>Optimal Search in Scenes</title>
-      <link>/calenwalshe.github.io/project/search/</link>
+      <link>/project/search/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/project/search/</guid>
+      <guid>/project/search/</guid>
       <description>&lt;p&gt;Searching the environment in a fast and efficient manner is a critical
 capability for humans and many other animals. Normally, multiple fixations
 are used to identify and localize targets. However, in the special case of
@@ -48,9 +48,9 @@ distribution of errors are similar.&lt;/p&gt;
     
     <item>
       <title>Saccadic Decision Making</title>
-      <link>/calenwalshe.github.io/project/saccades/</link>
+      <link>/project/saccades/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/project/saccades/</guid>
+      <guid>/project/saccades/</guid>
       <description>&lt;p&gt;Saccadic eye movements are the primary vehicle by which human gaze is brought in alignment with vital visual information present in naturalistic scenes. Although numerous studies using the double-step paradigm have demonstrated that saccade preparation is subject to modification under certain conditions, this has yet to be studied directly within a naturalistic scene-viewing context. To reveal characteristic properties of saccade programming during naturalistic scene viewing, we contrasted behavior across three conditions. In the Static condition of the main experiment, double-step targets were presented following a period of stable fixation on a central cross. In a Scene condition, targets were presented while participants actively explored a naturalistic scene. During a Noise condition, targets were presented during active exploration of a 1/f noise-filtered scene. In Experiment 2, we measure saccadic responses in three Static conditions (Uniform, Scene, and Noise) in which the backgrounds are the same as Experiment 1 but scene exploration is no longer permitted. We find that the mechanisms underlying saccade modification generalize to both dynamic conditions. However, we show that a property of saccade programming known as the saccadic dead time (SDT), the interval prior to saccade onset during which a saccade may not be canceled or modified, is lower in the Static task than it is in the dynamic tasks. We also find a trend toward longer SDT in the Scene as compared with Noise conditions. We discuss the implication of these results for computational models of scene viewing, reading, and visual search tasks.&lt;/p&gt;
 
 &lt;p&gt;Walshe, R.C. &amp;amp; Nuthmann, A. (2015). Mechanisms of saccadic decision making while encoding naturalistic scenes. Journal of Vision, 15(21).&lt;/p&gt;

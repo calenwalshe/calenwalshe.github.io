@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/publication_types/2/</link>
-      <atom:link href="/calenwalshe.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2015 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>2</title>
-      <link>/calenwalshe.github.io/publication_types/2/</link>
+      <link>/publication_types/2/</link>
     </image>
     
     <item>
       <title>Mechanisms of saccadic decision making while encoding naturalistic scenes</title>
-      <link>/calenwalshe.github.io/publication/jov/</link>
+      <link>/publication/jov/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/publication/jov/</guid>
+      <guid>/publication/jov/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Asymmetrical control of fixation durations in scene viewing</title>
-      <link>/calenwalshe.github.io/publication/vr/</link>
+      <link>/publication/vr/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/publication/vr/</guid>
+      <guid>/publication/vr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning-Induced Changes in Attentional Allocation during Categorization: A Sizable Catalog of Attention Change as Measured by Eye Movements</title>
-      <link>/calenwalshe.github.io/publication/plos/</link>
+      <link>/publication/plos/</link>
       <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/publication/plos/</guid>
+      <guid>/publication/plos/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Extremely selective attention: Eye-tracking studies of the dynamic allocation of attention to stimulus features in categorization</title>
-      <link>/calenwalshe.github.io/publication/jep/</link>
+      <link>/publication/jep/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/publication/jep/</guid>
+      <guid>/publication/jep/</guid>
       <description></description>
     </item>
     
