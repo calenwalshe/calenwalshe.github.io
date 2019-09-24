@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>signal_detection | R. Calen Walshe</title>
-    <link>/tags/signal_detection/</link>
-      <atom:link href="/tags/signal_detection/index.xml" rel="self" type="application/rss+xml" />
+    <link>/calenwalshe.github.io/tags/signal_detection/</link>
+      <atom:link href="/calenwalshe.github.io/tags/signal_detection/index.xml" rel="self" type="application/rss+xml" />
     <description>signal_detection</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>signal_detection</title>
-      <link>/tags/signal_detection/</link>
+      <link>/calenwalshe.github.io/tags/signal_detection/</link>
     </image>
     
     <item>
       <title>A model of the retina</title>
-      <link>/project/retina/</link>
+      <link>/calenwalshe.github.io/project/retina/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/retina/</guid>
+      <guid>/calenwalshe.github.io/project/retina/</guid>
       <description>&lt;p&gt;Many of the projects that I work on involve understanding the earliest stage of visual processing, the retina. There is a critical factor the take into account when building models of visual sensory processing which is the substantial loss in resolution that occurs in the periphery. In other words, when images on the retina fall at positions away from the center of the retina they are transmitted to the brain in a lower quality format.  This has major implications for perception and behavior. For example, doing basic signal detection is going to be negatively impacted when the images are presented in the periphery. Without taking the retinal factors into account predicting how humans detect signals is not likely to be successful. Retinal factors also play a major role in how well  we can search and located objects in scenes. Intuitively, finding objects that are very close to where you are currently looking is relatively easy compared to objects that are located far away. Part of this phenomenon is simply that the image of the object you are looking from the perspective of your brain is blurry and low-quality!&lt;/p&gt;
 
 &lt;p&gt;The model of the retina that we developed recently has helped us ask concrete questions about basic signal processing capabilities of humans and machines. You can download a demo &lt;a href=&#34;https://github.com/calenwalshe/retina_model&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt; and filter any image you like at a specific location on the retina. See what the image looks like to your visual system!&lt;/p&gt;
@@ -25,9 +25,9 @@
     
     <item>
       <title>Detecting objects in natural scenes.</title>
-      <link>/project/detection/</link>
+      <link>/calenwalshe.github.io/project/detection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/detection/</guid>
+      <guid>/calenwalshe.github.io/project/detection/</guid>
       <description>&lt;p&gt;Nearly all biological visual systems have the ability to separate relevant signals from background clutter. The natural-signals hypothesis suggests that biological systems exploit regularities in the statistical structure of natural scenes to solve this problem. Here, we study optimal detection of target signals that occlude part of the natural backgrounds they are presented on. Occluding targets are the most common in natural vision, but most of the existing literature has focused on additive targets because they are easier to work with both mathematically and experimentally. We develop a Bayes optimal detector for occluding targets that is limited by only the approximate sampling density of the primate retina and the natural scene statistics after retinal sampling. The performance of the optimal model is then compared to data measured in a human psychophysical detection task. To represent the scene statistics used by the Bayes detector we first filter natural scene patches with and without the target by a modulation transfer function that approximates the optics of the human eye. Second, we simulate the output of RGCs by blurring and downsampling the optically filtered image to match the expected retinal response at a given eccentricity. Then, we decompose the information relevant for detection of occluding targets. Luminance, pattern and boundary signals are computed separately for each patch. The variances and covariances of the features are then measured for a large set of background conditions and retinal eccentricities. Finally, performance of the optimal detector is measured in a set of background and eccentricity conditions for which we have measured human psychophysical responses. Our results show that human performance is approximately proportional to optimal. We conclude that much of the variation in detecting occluding targets across the visual field arises from the statistical structure of natural scenes and the limitations of retinal sampling.&lt;/p&gt;
 
 &lt;p&gt;Walshe, R. C., Sebastian, S., &amp;amp; Geisler, W. (2018). Ideal observer for detection of occluding targets in natural scenes in the fovea and periphery. Journal of Vision, 18(10), 629-629. (Published abstract).&lt;/p&gt;
@@ -36,9 +36,9 @@
     
     <item>
       <title>Detection of camouflaged textures</title>
-      <link>/project/texture/</link>
+      <link>/calenwalshe.github.io/project/texture/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/texture/</guid>
+      <guid>/calenwalshe.github.io/project/texture/</guid>
       <description>&lt;p&gt;Occurrences of camouflage in nature evoke fascination and wonder in us. Less appreciated are the forces that shaped their evolution: the visual systems of their predators and prey. Indeed, having been filtered by them, camouflage specimens—no matter how ingenuous—are poised just at the edge of detectability, their inventiveness
 only testifying to the sophistication of detection machinery that pruned even slightly less crafty variants.&lt;/p&gt;
 
