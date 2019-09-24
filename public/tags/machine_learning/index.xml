@@ -2,30 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine_learning | R. Calen Walshe</title>
-    <link>/tags/machine_learning/</link>
-      <atom:link href="/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>/calenwalshe.github.io/tags/machine_learning/</link>
+      <atom:link href="/calenwalshe.github.io/tags/machine_learning/index.xml" rel="self" type="application/rss+xml" />
     <description>machine_learning</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>machine_learning</title>
-      <link>/tags/machine_learning/</link>
+      <link>/calenwalshe.github.io/tags/machine_learning/</link>
     </image>
     
     <item>
       <title>A new method to calculate classification accuracy</title>
-      <link>/project/classify/</link>
+      <link>/calenwalshe.github.io/project/classify/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/classify/</guid>
+      <guid>/calenwalshe.github.io/project/classify/</guid>
       <description>&lt;p&gt;The classification accuracy between two general Gaussian distributions, and their discriminibality $d&amp;rsquo;$, are used ubiquitously to express the performance in binary classification and detection tasks. However, these quantities cannot in general be evaluated analytically from the Gaussian parameters. Standard numerical methods may require integration grids that are inefficiently large and fine, may converge slowly, yet miss relevant regions unless tailored case-by-case. We present a new calculation method, based on a transformation of the feature space, that is reliable and fast, and requires no hand-tailoring, for all cases up to 3 dimensions. \href{&lt;a href=&#34;https://github.com/abhranildas/classify}{Our&#34; target=&#34;_blank&#34;&gt;https://github.com/abhranildas/classify}{Our&lt;/a&gt; open-source MATLAB implementation of this method} provides a suite of tools related to such classification.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep learning from human eye movements</title>
-      <link>/project/deep-learning/</link>
+      <link>/calenwalshe.github.io/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/project/deep-learning/</guid>
+      <guid>/calenwalshe.github.io/project/deep-learning/</guid>
+      <description>&lt;p&gt;Large-scale public datasets have been shown to benefit research in multiple areas of modern artificial intelligence. For decision-making research that requires human data, high-quality datasets serve as important benchmarks to facilitate the development of new methods by providing a common reproducible standard. Many human decision-making tasks require visual attention to obtain high levels of performance. Therefore, measuring eye movements can provide a rich source of information about the strategies that humans use to solve decision-making tasks. Here, we provide a large-scale, high-quality dataset of human actions with simultaneously recorded eye movements while humans play Atari video games. The dataset consists of 117 hours of gameplay data from a diverse set of 20 games, with 8 million action demonstrations and 328 million gaze samples. We introduce a novel form of gameplay, in which the human plays in a semi-frame-by-frame manner. This leads to near-optimal game decisions and game scores that are comparable or better than known human records. We demonstrate the usefulness of the dataset through two simple applications: predicting human gaze and imitating human demonstrated actions. The quality of the data leads to promising results in both tasks. Moreover, using a learned human gaze model to inform imitation learning leads to an 115% increase in game performance. We interpret these results as highlighting the importance of incorporating human visual attention in models of decision making and demonstrating the value of the current dataset to the research community. We hope that the scale and quality of this dataset can provide more opportunities to researchers in the areas of visual attention, imitation learning, and reinforcement learning.&lt;/p&gt;
+
+&lt;p&gt;Zhang, R., Walshe, R.C., Liu, Z., Guan, L., Muller, K.S., Whritner, J.A., Zhang, L., Hayhoe, M. &amp;amp; Ballard, D. (2019). Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset. preprint arXiv. arXiv:1903.06754 (Under review at AAAI’20).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Deep learning from human eye movements</title>
+      <link>/calenwalshe.github.io/project/machine_learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/machine_learning/</guid>
       <description>&lt;p&gt;Large-scale public datasets have been shown to benefit research in multiple areas of modern artificial intelligence. For decision-making research that requires human data, high-quality datasets serve as important benchmarks to facilitate the development of new methods by providing a common reproducible standard. Many human decision-making tasks require visual attention to obtain high levels of performance. Therefore, measuring eye movements can provide a rich source of information about the strategies that humans use to solve decision-making tasks. Here, we provide a large-scale, high-quality dataset of human actions with simultaneously recorded eye movements while humans play Atari video games. The dataset consists of 117 hours of gameplay data from a diverse set of 20 games, with 8 million action demonstrations and 328 million gaze samples. We introduce a novel form of gameplay, in which the human plays in a semi-frame-by-frame manner. This leads to near-optimal game decisions and game scores that are comparable or better than known human records. We demonstrate the usefulness of the dataset through two simple applications: predicting human gaze and imitating human demonstrated actions. The quality of the data leads to promising results in both tasks. Moreover, using a learned human gaze model to inform imitation learning leads to an 115% increase in game performance. We interpret these results as highlighting the importance of incorporating human visual attention in models of decision making and demonstrating the value of the current dataset to the research community. We hope that the scale and quality of this dataset can provide more opportunities to researchers in the areas of visual attention, imitation learning, and reinforcement learning.&lt;/p&gt;
 
 &lt;p&gt;Zhang, R., Walshe, R.C., Liu, Z., Guan, L., Muller, K.S., Whritner, J.A., Zhang, L., Hayhoe, M. &amp;amp; Ballard, D. (2019). Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset. preprint arXiv. arXiv:1903.06754 (Under review at AAAI’20).&lt;/p&gt;

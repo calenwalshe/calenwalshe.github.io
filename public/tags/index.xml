@@ -2,45 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | R. Calen Walshe</title>
-    <link>/tags/</link>
-      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/calenwalshe.github.io/tags/</link>
+      <atom:link href="/calenwalshe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/tags/</link>
+      <link>/calenwalshe.github.io/tags/</link>
     </image>
     
     <item>
       <title>Academic</title>
-      <link>/tags/academic/</link>
+      <link>/calenwalshe.github.io/tags/academic/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/academic/</guid>
+      <guid>/calenwalshe.github.io/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>/tags/source-themes/</link>
+      <link>/calenwalshe.github.io/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/tags/source-themes/</guid>
+      <guid>/calenwalshe.github.io/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>eye_movements</title>
-      <link>/tags/eye_movements/</link>
+      <link>/calenwalshe.github.io/tags/eye_movements/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/eye_movements/</guid>
+      <guid>/calenwalshe.github.io/tags/eye_movements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine_learning</title>
+      <link>/calenwalshe.github.io/tags/machine_learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/tags/machine_learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>signal_detection</title>
-      <link>/tags/signal_detection/</link>
+      <link>/calenwalshe.github.io/tags/signal_detection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/tags/signal_detection/</guid>
+      <guid>/calenwalshe.github.io/tags/signal_detection/</guid>
       <description></description>
     </item>
     
