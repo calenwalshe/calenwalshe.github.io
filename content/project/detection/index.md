@@ -1,5 +1,5 @@
 ---
-title: Detecting objects in natural scenes.
+title: Detecting objects in natural scenes
 summary: We build a statistically near-optimum detector and compare this with human behavior.
 tags:
 - signal_detection
