@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>A new method to calculate classification accuracy</title>
+      <title>Calculation of error rates for Bayesian decision models.</title>
       <link>/calenwalshe.github.io/project/classify/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/classify/</guid>
@@ -22,13 +22,73 @@
     </item>
     
     <item>
-      <title>Using deep learning to predict human gaze and human action.</title>
+      <title>Predicting gaze with reinforcement learning</title>
+      <link>/calenwalshe.github.io/project/reinforcement-learning/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/reinforcement-learning/</guid>
+      <description>&lt;p&gt;We developed an approach to predicting eye movements during category learning tasks. One of the central roles of eye movements is to sample information from the environment in a way that supports ongoing tasks and such that the information is sampled at the appropriate time.&lt;/p&gt;
+
+&lt;p&gt;During classification tasks information from different spatial locations must often be used to determine the specific features of an object that are relevant for placing it in the appropriate category. When categories and objects are well known to the object they will typically know where to look on the object to classify it appropriately. However, when encountering a new object, or a new &lt;em&gt;type&lt;/em&gt; of object, it isn&amp;rsquo;t clear which features are relevant. In this case, the observer must learn the features that should be used to classify the object correctly.&lt;/p&gt;
+
+&lt;p&gt;In this work, we show that a reinforcement learning approach to learning which locations to look at in order to perform well in the classification task does a good job of predicting actual human learning in classification experiments. This work supports the idea that reinforcement learning provides a good model for how humans select actions.&lt;/p&gt;
+
+&lt;p&gt;Barnes, J. I., McColeman, C., Stepanova, E., Blair, M. R., &amp;amp; Walshe, R. C. (2014). RLAttn: An actor-critic model of eye movements during category learning. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 36, No. 36).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting human gaze and action with deep learning</title>
       <link>/calenwalshe.github.io/project/deep-learning/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/deep-learning/</guid>
       <description>&lt;p&gt;Large-scale public datasets have been shown to benefit research in multiple areas of modern artificial intelligence. For decision-making research that requires human data, high-quality datasets serve as important benchmarks to facilitate the development of new methods by providing a common reproducible standard. Many human decision-making tasks require visual attention to obtain high levels of performance. Therefore, measuring eye movements can provide a rich source of information about the strategies that humans use to solve decision-making tasks. Here, we provide a large-scale, high-quality dataset of human actions with simultaneously recorded eye movements while humans play Atari video games. The dataset consists of 117 hours of gameplay data from a diverse set of 20 games, with 8 million action demonstrations and 328 million gaze samples. We introduce a novel form of gameplay, in which the human plays in a semi-frame-by-frame manner. This leads to near-optimal game decisions and game scores that are comparable or better than known human records. We demonstrate the usefulness of the dataset through two simple applications: predicting human gaze and imitating human demonstrated actions. The quality of the data leads to promising results in both tasks. Moreover, using a learned human gaze model to inform imitation learning leads to an 115% increase in game performance. We interpret these results as highlighting the importance of incorporating human visual attention in models of decision making and demonstrating the value of the current dataset to the research community. We hope that the scale and quality of this dataset can provide more opportunities to researchers in the areas of visual attention, imitation learning, and reinforcement learning.&lt;/p&gt;
 
 &lt;p&gt;Zhang, R., Walshe, R.C., Liu, Z., Guan, L., Muller, K.S., Whritner, J.A., Zhang, L., Hayhoe, M. &amp;amp; Ballard, D. (2019). Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset. preprint arXiv. arXiv:1903.06754 (Under review at AAAI’20).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian classification of objects in natural scenes.</title>
+      <link>/calenwalshe.github.io/project/detection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/detection/</guid>
+      <description>&lt;p&gt;Nearly all biological visual systems have the ability to separate relevant signals from background clutter. The natural-signals hypothesis suggests that biological systems exploit regularities in the statistical structure of natural scenes to solve this problem. Here, we study optimal detection of target signals that occlude part of the natural backgrounds they are presented on. Occluding targets are the most common in natural vision, but most of the existing literature has focused on additive targets because they are easier to work with both mathematically and experimentally. We develop a Bayes optimal detector for occluding targets that is limited by only the approximate sampling density of the primate retina and the natural scene statistics after retinal sampling. The performance of the optimal model is then compared to data measured in a human psychophysical detection task. To represent the scene statistics used by the Bayes detector we first filter natural scene patches with and without the target by a modulation transfer function that approximates the optics of the human eye. Second, we simulate the output of RGCs by blurring and downsampling the optically filtered image to match the expected retinal response at a given eccentricity. Then, we decompose the information relevant for detection of occluding targets. Luminance, pattern and boundary signals are computed separately for each patch. The variances and covariances of the features are then measured for a large set of background conditions and retinal eccentricities. Finally, performance of the optimal detector is measured in a set of background and eccentricity conditions for which we have measured human psychophysical responses. Our results show that human performance is approximately proportional to optimal. We conclude that much of the variation in detecting occluding targets across the visual field arises from the statistical structure of natural scenes and the limitations of retinal sampling.&lt;/p&gt;
+
+&lt;p&gt;Walshe, R. C., Sebastian, S., &amp;amp; Geisler, W. (2018). Ideal observer for detection of occluding targets in natural scenes in the fovea and periphery. Journal of Vision, 18(10), 629-629.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian optimal search</title>
+      <link>/calenwalshe.github.io/project/search/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/search/</guid>
+      <description>&lt;p&gt;Searching the environment in a fast and efficient manner is a critical
+capability for humans and many other animals. Normally, multiple fixations
+are used to identify and localize targets. However, in the special case of
+covert search the target must be identified and localized within a single
+fixation. Here we present a theory of covert search that takes into account
+the statistical variation in background images, the falloff in resolution and
+sampling with retinal eccentricity, the increase in intrinsic location uncertainty with retinal eccentricity, and the prior probability of target presence
+and target location in the image. The computational steps of the theory are
+as follows.First, the effective prior probability distribution on target location
+is computed from the prior and the intrinsic location uncertainty. Second,
+the effective amplitude of the target (also dependent on retinal eccentricity) is computed and the target (if present) is added to the background.
+Third, template responses are computed at each image location by taking
+the dot product of a template (having the shape of target) with the image
+and then adding a random sample of internal noise. Fourth, the responses
+are correctly normalized by the sum of the internal noise variance and the
+estimated variance due to external factors (the background statistics).Fifth,
+the normalized responses are summed with the log of the effective prior on
+target location to obtain values proportional to the posterior probability.If the
+maximum of these values exceeds a criterion, the response is that the target
+is present at the location of the maximum. The theory predicts that i) misses
+occur more often than false alarms, ii) misses occur further in the periphery
+than false alarms, and iii) these asymmetries decrease with increasing target
+amplitude. Preliminary results show that the theoretical and human spatial
+distribution of errors are similar.&lt;/p&gt;
+
+&lt;p&gt;Walshe, R.C. &amp;amp; Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms. Annual meeting of the Vision Sciences Society.&lt;/p&gt;
 </description>
     </item>
     

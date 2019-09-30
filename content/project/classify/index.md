@@ -1,5 +1,5 @@
 ---
-title: A new method to calculate classification accuracy
+title: Calculation of error rates for Bayesian decision models.
 summary:
 tags:
 - machine_learning 

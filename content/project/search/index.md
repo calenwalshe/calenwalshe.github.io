@@ -1,8 +1,9 @@
 ---
-title: Optimal Search in Scenes
-summary: We developed an algorithm to optimally search in natural scenes. We tested humans against our optimal benchmark.
+title: Bayesian optimal search
+summary: We developed an algorithm to optimally search for objects in natural scenes. We tested humans against our optimal benchmark.
 tags:
 - eye_movements
+- machine_learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
@@ -55,4 +56,4 @@ than false alarms, and iii) these asymmetries decrease with increasing target
 amplitude. Preliminary results show that the theoretical and human spatial
 distribution of errors are similar.
 
-Walshe, R.C. & Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms Annual meeting of the Vision Sciences Society (Poster).
+Walshe, R.C. & Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms. Annual meeting of the Vision Sciences Society.

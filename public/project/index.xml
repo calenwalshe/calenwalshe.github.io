@@ -13,7 +13,7 @@
     </image>
     
     <item>
-      <title>A new method to calculate classification accuracy</title>
+      <title>Calculation of error rates for Bayesian decision models.</title>
       <link>/calenwalshe.github.io/project/classify/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/classify/</guid>
@@ -22,7 +22,22 @@
     </item>
     
     <item>
-      <title>Using deep learning to predict human gaze and human action.</title>
+      <title>Predicting gaze with reinforcement learning</title>
+      <link>/calenwalshe.github.io/project/reinforcement-learning/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/reinforcement-learning/</guid>
+      <description>&lt;p&gt;We developed an approach to predicting eye movements during category learning tasks. One of the central roles of eye movements is to sample information from the environment in a way that supports ongoing tasks and such that the information is sampled at the appropriate time.&lt;/p&gt;
+
+&lt;p&gt;During classification tasks information from different spatial locations must often be used to determine the specific features of an object that are relevant for placing it in the appropriate category. When categories and objects are well known to the object they will typically know where to look on the object to classify it appropriately. However, when encountering a new object, or a new &lt;em&gt;type&lt;/em&gt; of object, it isn&amp;rsquo;t clear which features are relevant. In this case, the observer must learn the features that should be used to classify the object correctly.&lt;/p&gt;
+
+&lt;p&gt;In this work, we show that a reinforcement learning approach to learning which locations to look at in order to perform well in the classification task does a good job of predicting actual human learning in classification experiments. This work supports the idea that reinforcement learning provides a good model for how humans select actions.&lt;/p&gt;
+
+&lt;p&gt;Barnes, J. I., McColeman, C., Stepanova, E., Blair, M. R., &amp;amp; Walshe, R. C. (2014). RLAttn: An actor-critic model of eye movements during category learning. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 36, No. 36).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Predicting human gaze and action with deep learning</title>
       <link>/calenwalshe.github.io/project/deep-learning/</link>
       <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/deep-learning/</guid>
@@ -44,35 +59,18 @@
     </item>
     
     <item>
-      <title>Detecting objects in natural scenes.</title>
+      <title>Bayesian classification of objects in natural scenes.</title>
       <link>/calenwalshe.github.io/project/detection/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/detection/</guid>
       <description>&lt;p&gt;Nearly all biological visual systems have the ability to separate relevant signals from background clutter. The natural-signals hypothesis suggests that biological systems exploit regularities in the statistical structure of natural scenes to solve this problem. Here, we study optimal detection of target signals that occlude part of the natural backgrounds they are presented on. Occluding targets are the most common in natural vision, but most of the existing literature has focused on additive targets because they are easier to work with both mathematically and experimentally. We develop a Bayes optimal detector for occluding targets that is limited by only the approximate sampling density of the primate retina and the natural scene statistics after retinal sampling. The performance of the optimal model is then compared to data measured in a human psychophysical detection task. To represent the scene statistics used by the Bayes detector we first filter natural scene patches with and without the target by a modulation transfer function that approximates the optics of the human eye. Second, we simulate the output of RGCs by blurring and downsampling the optically filtered image to match the expected retinal response at a given eccentricity. Then, we decompose the information relevant for detection of occluding targets. Luminance, pattern and boundary signals are computed separately for each patch. The variances and covariances of the features are then measured for a large set of background conditions and retinal eccentricities. Finally, performance of the optimal detector is measured in a set of background and eccentricity conditions for which we have measured human psychophysical responses. Our results show that human performance is approximately proportional to optimal. We conclude that much of the variation in detecting occluding targets across the visual field arises from the statistical structure of natural scenes and the limitations of retinal sampling.&lt;/p&gt;
 
-&lt;p&gt;Walshe, R. C., Sebastian, S., &amp;amp; Geisler, W. (2018). Ideal observer for detection of occluding targets in natural scenes in the fovea and periphery. Journal of Vision, 18(10), 629-629. (Published abstract).&lt;/p&gt;
+&lt;p&gt;Walshe, R. C., Sebastian, S., &amp;amp; Geisler, W. (2018). Ideal observer for detection of occluding targets in natural scenes in the fovea and periphery. Journal of Vision, 18(10), 629-629.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Detection of camouflaged textures</title>
-      <link>/calenwalshe.github.io/project/texture/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/project/texture/</guid>
-      <description>&lt;p&gt;Occurrences of camouflage in nature evoke fascination and wonder in us. Less appreciated are the forces that shaped their evolution: the visual systems of their predators and prey. Indeed, having been filtered by them, camouflage specimens—no matter how ingenuous—are poised just at the edge of detectability, their inventiveness
-only testifying to the sophistication of detection machinery that pruned even slightly less crafty variants.&lt;/p&gt;
-
-&lt;p&gt;Using theory, computation and experiment, we turn our inquiry to the visual resources and mechanisms that are harnessed for detecting camouflage in nature. In particular, we consider the scenario where the camouflaging animal has exactly mimicked its background texture. Any visual information usable for detection then lies only at its boundary. We begin therefore by defining the boundary mismatch: a computational measure of visual discontinuity at the boundary that putatively summarizes most of this available information. We then synthesize artificial stimuli using 1/f noise as the camouflage texture (this shares the same spatial frequency properties as natural images, but lacks further structure), and assess human performance on them with a
-series of target-detection experiments.&lt;/p&gt;
-
-&lt;p&gt;We find regular variation in the detectability of these stimuli as a function of their boundary mismatch, allowing us to measure boundary-mismatch thresholds against variations in task-relevant stimulus dimensions like luminance, contrast and duration. We shall extend this analysis to variations in the size, distance and shape of the target, and with naturalistic texture stimuli (see Portilla and Simoncelli, 2000). These ideas can also be brought to the question of engineering effective camouflage. The boundary mismatch measure allows us to computationally prescribe the best location on a background to hide against, and compare the effectiveness of different textures towards this goal. These computational results can be connected to actual detectability in such scenarios using the results of our psychophysical experiments.&lt;/p&gt;
-
-&lt;p&gt;Das, A., Walshe, R.C. and Geisler, W.S. (2018) Understanding camouflage detection. Presented at Computational and Systems Neuroscience (COSYNE) Annual Meeting.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Optimal Search in Scenes</title>
+      <title>Bayesian optimal search</title>
       <link>/calenwalshe.github.io/project/search/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/search/</guid>
@@ -101,7 +99,24 @@ than false alarms, and iii) these asymmetries decrease with increasing target
 amplitude. Preliminary results show that the theoretical and human spatial
 distribution of errors are similar.&lt;/p&gt;
 
-&lt;p&gt;Walshe, R.C. &amp;amp; Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms Annual meeting of the Vision Sciences Society (Poster).&lt;/p&gt;
+&lt;p&gt;Walshe, R.C. &amp;amp; Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms. Annual meeting of the Vision Sciences Society.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Detection of camouflaged textures</title>
+      <link>/calenwalshe.github.io/project/texture/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/texture/</guid>
+      <description>&lt;p&gt;Occurrences of camouflage in nature evoke fascination and wonder in us. Less appreciated are the forces that shaped their evolution: the visual systems of their predators and prey. Indeed, having been filtered by them, camouflage specimens—no matter how ingenuous—are poised just at the edge of detectability, their inventiveness
+only testifying to the sophistication of detection machinery that pruned even slightly less crafty variants.&lt;/p&gt;
+
+&lt;p&gt;Using theory, computation and experiment, we turn our inquiry to the visual resources and mechanisms that are harnessed for detecting camouflage in nature. In particular, we consider the scenario where the camouflaging animal has exactly mimicked its background texture. Any visual information usable for detection then lies only at its boundary. We begin therefore by defining the boundary mismatch: a computational measure of visual discontinuity at the boundary that putatively summarizes most of this available information. We then synthesize artificial stimuli using 1/f noise as the camouflage texture (this shares the same spatial frequency properties as natural images, but lacks further structure), and assess human performance on them with a
+series of target-detection experiments.&lt;/p&gt;
+
+&lt;p&gt;We find regular variation in the detectability of these stimuli as a function of their boundary mismatch, allowing us to measure boundary-mismatch thresholds against variations in task-relevant stimulus dimensions like luminance, contrast and duration. We shall extend this analysis to variations in the size, distance and shape of the target, and with naturalistic texture stimuli (see Portilla and Simoncelli, 2000). These ideas can also be brought to the question of engineering effective camouflage. The boundary mismatch measure allows us to computationally prescribe the best location on a background to hide against, and compare the effectiveness of different textures towards this goal. These computational results can be connected to actual detectability in such scenarios using the results of our psychophysical experiments.&lt;/p&gt;
+
+&lt;p&gt;Das, A., Walshe, R.C. and Geisler, W.S. (2018) Understanding camouflage detection. Presented at Computational and Systems Neuroscience (COSYNE) Annual Meeting.&lt;/p&gt;
 </description>
     </item>
     

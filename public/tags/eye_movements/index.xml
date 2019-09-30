@@ -5,7 +5,7 @@
     <link>/calenwalshe.github.io/tags/eye_movements/</link>
       <atom:link href="/calenwalshe.github.io/tags/eye_movements/index.xml" rel="self" type="application/rss+xml" />
     <description>eye_movements</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 21 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>eye_movements</title>
@@ -13,7 +13,22 @@
     </image>
     
     <item>
-      <title>Optimal Search in Scenes</title>
+      <title>Predicting gaze with reinforcement learning</title>
+      <link>/calenwalshe.github.io/project/reinforcement-learning/</link>
+      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/project/reinforcement-learning/</guid>
+      <description>&lt;p&gt;We developed an approach to predicting eye movements during category learning tasks. One of the central roles of eye movements is to sample information from the environment in a way that supports ongoing tasks and such that the information is sampled at the appropriate time.&lt;/p&gt;
+
+&lt;p&gt;During classification tasks information from different spatial locations must often be used to determine the specific features of an object that are relevant for placing it in the appropriate category. When categories and objects are well known to the object they will typically know where to look on the object to classify it appropriately. However, when encountering a new object, or a new &lt;em&gt;type&lt;/em&gt; of object, it isn&amp;rsquo;t clear which features are relevant. In this case, the observer must learn the features that should be used to classify the object correctly.&lt;/p&gt;
+
+&lt;p&gt;In this work, we show that a reinforcement learning approach to learning which locations to look at in order to perform well in the classification task does a good job of predicting actual human learning in classification experiments. This work supports the idea that reinforcement learning provides a good model for how humans select actions.&lt;/p&gt;
+
+&lt;p&gt;Barnes, J. I., McColeman, C., Stepanova, E., Blair, M. R., &amp;amp; Walshe, R. C. (2014). RLAttn: An actor-critic model of eye movements during category learning. In Proceedings of the Annual Meeting of the Cognitive Science Society (Vol. 36, No. 36).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Bayesian optimal search</title>
       <link>/calenwalshe.github.io/project/search/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>/calenwalshe.github.io/project/search/</guid>
@@ -42,7 +57,7 @@ than false alarms, and iii) these asymmetries decrease with increasing target
 amplitude. Preliminary results show that the theoretical and human spatial
 distribution of errors are similar.&lt;/p&gt;
 
-&lt;p&gt;Walshe, R.C. &amp;amp; Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms Annual meeting of the Vision Sciences Society (Poster).&lt;/p&gt;
+&lt;p&gt;Walshe, R.C. &amp;amp; Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms. Annual meeting of the Vision Sciences Society.&lt;/p&gt;
 </description>
     </item>
     
