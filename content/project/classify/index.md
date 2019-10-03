@@ -1,5 +1,5 @@
 ---
-title: Calculation of error rates for Bayesian decision models.
+title: Accurate error rates for binary quadratic classifiers. 
 summary:
 tags:
 - machine_learning 
