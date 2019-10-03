@@ -1,5 +1,5 @@
 ---
-title: Predicting human gaze and action with deep learning
+title: Deep learning to predict human gaze and human actions in games. 
 summary: Incorporating human gaze improves imitation learning of human actions in ATARI games.
 tags:
 - machine_learning 

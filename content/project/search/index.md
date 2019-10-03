@@ -1,5 +1,5 @@
 ---
-title: Bayesian optimal search
+title: Bayesian search for objects in natural scenes 
 summary: We developed an algorithm to optimally search for objects in natural scenes. We tested humans against our optimal benchmark.
 tags:
 - eye_movements
