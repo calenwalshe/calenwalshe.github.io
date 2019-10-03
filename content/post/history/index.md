@@ -36,4 +36,4 @@ We can also see the emergence of the Roman Empire in classical antiquity and its
 
 I'm interested to know more about how the Persian empire transitioned into the Seleucid and Bactrian Kingdoms. Furthermore, what was the relationship between the Persians of ancient antiquity and the Sassanian Persians? The greatest asset of such a map is its ability to stimulate such questions.
 
-![where is the image](/img/posts/posts/histomap.jpg)
+![where is the image](/static/img/posts/histomap.jpg)

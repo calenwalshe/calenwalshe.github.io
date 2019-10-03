@@ -21,7 +21,7 @@ organizations:
 bio: I study human and machine vision using experiments and modeling.
 
 interests:
-- Vision Research
+- Human and Machine Vision
 - Machine Learning and Decision Making
 - Cognitive Science
 
