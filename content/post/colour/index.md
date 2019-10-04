@@ -47,12 +47,8 @@ Two perceptual phenomena help to make this clear, _colour constancy_ and _colour
 
 Colour constancy is the label that is used to describe an aspect of perception in which an object is perceived to have a relatively uniform colour despite large variations in the wavelengths being emitted from the object. The following illusion is a stark demonstration of this principle. In the illusion, the patches labelled A and B are actually the exact same colour even though the perception of the patches is very different. This is colour constancy at work. The brain is doing some work to estimate the colour that would be expected based on the surrounding context and is discounting the colour that is actually being emitted from the patch.
 
-
 ![Grid Illusion](/img/posts/grid_illusion.png)
 
-
 Colour metamers also show that the colour of light and the emitted wavelength are not one and the same. A colour metamer occurs when the perceived colour is identical but the spectral power distribution is completely different. The existence of metamers comes about because the retina is compressing a continuous distribution of wavelengths into responses of three different cone classes. 
-
-
 
 In summary, the perception of colour at a location in the world is influenced by more than the wavelength of light that arises from it. The context of the perception matters.
