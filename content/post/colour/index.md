@@ -8,7 +8,6 @@ tags:
 - Academic
 categories:
 date: "2016-03-24"
-lastmod:
 featured: false
 draft: false
 
