@@ -31,10 +31,10 @@ education:
     institution: The University of Edinburgh, Scotland
     year: 2015
   - course: MA in Psychology, Cognitive and Neural Sciences
-    institution: Simon Fraser University
+    institution: Simon Fraser University, Canada
     year: 2011
   - course: BA in Cognitive Science
-    institution: Simon Fraser University
+    institution: Simon Fraser University, Canada
     year: 2009
 
 # Social/Academic Networking
