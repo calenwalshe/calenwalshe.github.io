@@ -20,7 +20,7 @@ links:
   url: https://twitter.com/georgecushen
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: search_presentation.pptx
 url_video: ""
 
 # Slides (optional).
@@ -28,7 +28,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides:
 ---
 
 Searching the environment in a fast and efficient manner is a critical
@@ -39,7 +39,7 @@ fixation. Here we present a theory of covert search that takes into account
 the statistical variation in background images, the falloff in resolution and
 sampling with retinal eccentricity, the increase in intrinsic location uncertainty with retinal eccentricity, and the prior probability of target presence
 and target location in the image. The computational steps of the theory are
-as follows.First, the effective prior probability distribution on target location
+as follows. First, the effective prior probability distribution on target location
 is computed from the prior and the intrinsic location uncertainty. Second,
 the effective amplitude of the target (also dependent on retinal eccentricity) is computed and the target (if present) is added to the background.
 Third, template responses are computed at each image location by taking

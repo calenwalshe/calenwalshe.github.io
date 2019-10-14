@@ -27,7 +27,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: 
 ---
 
 Occurrences of camouflage in nature evoke fascination and wonder in us. Less appreciated are the forces that shaped their evolution: the visual systems of their predators and prey. Indeed, having been filtered by them, camouflage specimens—no matter how ingenuous—are poised just at the edge of detectability, their inventiveness
