@@ -40,4 +40,4 @@ is computed from the prior and the intrinsic location uncertainty. Second, the e
 
 Walshe, R.C. & Geisler, W.S. (2019). Theory of Covert Search in Noise Backgrounds Correctly Predicts Asymmetrical Spatial Distributions of Misses and False Alarms. Annual meeting of the Vision Sciences Society. Poster available [here](https://calenwalshe.com/files/vss_2019_search_poster.pdf)
 
-Technical Report (2019). A theory of visual search for foveated visual systems.  Report available [I'm a link](https://calenwalshe.com/files/tech_report_nov_1_2019)
+Technical Report (2019). A theory of visual search for foveated visual systems.  Report available [here](https://calenwalshe.com/files/tech_report_nov_1_2019)
