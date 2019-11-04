@@ -22,11 +22,7 @@ image:
   preview_only: false
 
 # Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: []
 ---
 
-Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. [A report can be found here](https://calenwalshe.com/files/vss_2019_search_poster.pdf)
+Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. [A report can be found here](https://calenwalshe.com/files/tech_report_nov_1_2019.pdf)
