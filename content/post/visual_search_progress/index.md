@@ -15,8 +15,9 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
-image: featured.png
-  caption: ""
+image:
+  placement: 2
+  caption:
   focal_point: ""
   preview_only: false
 
@@ -25,7 +26,7 @@ image: featured.png
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["visual_search"]
+projects: []
 ---
 
 Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. [A report can be found here](https://calenwalshe.com/files/vss_2019_search_poster.pdf)
