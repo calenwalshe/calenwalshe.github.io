@@ -5,12 +5,36 @@
     <link>/calenwalshe.github.io/authors/</link>
       <atom:link href="/calenwalshe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0000</lastBuildDate>
     <image>
       <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>Authors</title>
       <link>/calenwalshe.github.io/authors/</link>
     </image>
+    
+    <item>
+      <title>Calen Walshe</title>
+      <link>/calenwalshe.github.io/authors/calen-walshe/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/authors/calen-walshe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jared Abrams</title>
+      <link>/calenwalshe.github.io/authors/jared-abrams/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/authors/jared-abrams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wilson Geisler</title>
+      <link>/calenwalshe.github.io/authors/wilson-geisler/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/authors/wilson-geisler/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title></title>

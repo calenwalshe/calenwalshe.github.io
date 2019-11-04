@@ -5,12 +5,21 @@
     <link>/calenwalshe.github.io/post/</link>
       <atom:link href="/calenwalshe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 30 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 03 Nov 2019 08:29:51 -0600</lastBuildDate>
     <image>
       <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>Posts</title>
       <link>/calenwalshe.github.io/post/</link>
     </image>
+    
+    <item>
+      <title>Recent progress on a theory of visual search</title>
+      <link>/calenwalshe.github.io/post/visual_search_progress/</link>
+      <pubDate>Sun, 03 Nov 2019 08:29:51 -0600</pubDate>
+      <guid>/calenwalshe.github.io/post/visual_search_progress/</guid>
+      <description>&lt;p&gt;Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. &lt;a href=&#34;https://calenwalshe.com/files/tech_report_nov_1_2019.pdf&#34; target=&#34;_blank&#34;&gt;A report can be found here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Is there something so unbelievable that you would assign it probability 0?</title>
