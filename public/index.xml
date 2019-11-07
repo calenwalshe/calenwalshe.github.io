@@ -5,7 +5,7 @@
     <link>/calenwalshe.github.io/</link>
       <atom:link href="/calenwalshe.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>R. Calen Walshe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2019 20:32:30 -0600</lastBuildDate>
     <image>
       <url>/calenwalshe.github.io/img/icon-192.png</url>
       <title>R. Calen Walshe</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>Recent &amp; Upcoming Talks</title>
-      <link>/calenwalshe.github.io/talk/</link>
-      <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/</guid>
+      <title>Posts</title>
+      <link>/calenwalshe.github.io/post/</link>
+      <pubDate>Wed, 06 Nov 2019 20:32:30 -0600</pubDate>
+      <guid>/calenwalshe.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Posts</title>
-      <link>/calenwalshe.github.io/post/</link>
-      <pubDate>Sun, 03 Nov 2019 08:29:51 -0600</pubDate>
-      <guid>/calenwalshe.github.io/post/</guid>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/calenwalshe.github.io/talk/</link>
+      <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
+      <guid>/calenwalshe.github.io/talk/</guid>
       <description></description>
     </item>
     
