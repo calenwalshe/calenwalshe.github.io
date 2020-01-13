@@ -1,17 +1,17 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Very large dataset and modeling of eye movements and actions during ATARI game play"
-event: Thirty-Fourth AAAI Conference on Artificial Intelligence
+title: "A theory of visual search for foveated visual systems"
+event: COSYNE 2020
 event_url:
-location: New York, New York
+location: Denver, Colorado
 address:
   street:
   city:
   region:
   postcode:
   country:
-summary: In this project we collected a very large number of eye movements and game play data. The hope is that this data set will be widely used to push the field of imitation learning. Imitation learning is a subfield of AI research where the goal is to design machines that can achieve human-like performance is tasks by directly learning from human behavior. We think ATARI game play is an ideal area for this research and the goal of this data set is to push that forward. In the work we show that this can be done with the data provided by developing models that improve on state of the art imitation learning methods by using the gaze and action sequences recorded in the data set. The preprint can be found [here](https://arxiv.org/abs/1903.06754).
+summary: 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
