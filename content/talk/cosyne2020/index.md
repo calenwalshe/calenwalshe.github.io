@@ -2,9 +2,9 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "A theory of visual search for foveated visual systems"
-event: COSYNE 2020
+event: Computational and Systems Neuroscience 2020 (COSYNE)
 event_url:
-location: Denver, Colorado
+location: Computational and Systems Neuroscience Conference, Denver, Colorado
 address:
   street:
   city:

@@ -4,7 +4,7 @@
 title: "Very large dataset and modeling of eye movements and actions during ATARI game play"
 event: Thirty-Fourth AAAI Conference on Artificial Intelligence
 event_url:
-location: New York, New York
+location: Thirty-Fourth AAAI Conference on Artificial Intelligence, New York
 address:
   street:
   city:
