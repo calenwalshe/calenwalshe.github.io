@@ -45,7 +45,7 @@ image:
 #   icon: twitter
 
 # Optional filename of your slides within your talk's folder or a URL.
-url_slides:
+url_slides: talk/cosyne2020/cosyne2020.pdf
 
 url_code:
 url_pdf:

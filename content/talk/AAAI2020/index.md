@@ -48,7 +48,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: talk/AAAI2020/1903.06754.pdf
 url_video:
 
 # Markdown Slides (optional).
