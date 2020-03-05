@@ -15,8 +15,7 @@ summary: In this project we collected a very large number of eye movements and g
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-02-07T18:00:29-06:00
-date_end: 2020-02-12T18:00:29-06:00
+date: "2020-02-07"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
