@@ -22,7 +22,7 @@ publication_short: "Fixation timing in natural scene perception"
 abstract: "During the perception of naturalistic scenes, the eyes frequently move from one location of the visual field to another in the service of tasks such as scene encoding, memorization and scene understanding. It is critical to have visually guided behaviour well adapted to the demands of the current task. By using computational modelling, we study the question of fixation timing during natural scene perception to understand the mechanisms underlying the control of visually guided actions. A stochastic process approach is used to model (a) empirically well characterized mechanisms of the human visual system, (b) hypothetical mechanisms of fixation control, and (c) to predict empirical fixation duration distributions generated from recent experiments. Moreover, the model makes a novel assumption, which is that saccade programming timers are adaptively modified by separate processes associated with (a) fast-acting image-onset surprisal and (b) variation in image encoding difficulty. With this formalization of the dual-process account we are able to recover fixation duration distributions from the fixation-contingent scene quality paradigm, in which the quality of the scene (e.g., its luminance) is manipulated during the duration of selected critical fixations. We suggest that model simulations can provide qualitative and quantitative explanations for seemingly contradictory empirical results."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Paper submitted to Computational Brain and Behavior"
 
 tags: []
 categories: []
