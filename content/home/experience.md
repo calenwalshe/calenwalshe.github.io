@@ -45,7 +45,7 @@ The University of Texas at Austin
   """
 
 [[experience]]
-  title = "Bachelors in Cognitive Science"
+  title = "Bachelor's in Cognitive Science"
   company = "Simon Fraser University"
   company_url = ""
   location = "Vancouver, Canada"
