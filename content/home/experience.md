@@ -34,23 +34,12 @@ The University of Texas at Austin
   """
 
 [[experience]]
-  title = "Ph.D in Psychology, Cognitive Neuroscience"
+  title = "Ph.D, Cognitive and Neural Sciences"
   company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh, Scotland"
   date_start = "2011-09-01"
   date_end = "2015-05-01"
-  description = """
-
-  """
-
-[[experience]]
-  title = "MA in Psychology, Cognitive and Neural Sciences"
-  company = "Simon Fraser University"
-  company_url = ""
-  location = "Vancouver, Canada"
-  date_start = "2009-01-01"
-  date_end = "2011-08-01"
   description = """
 
   """
