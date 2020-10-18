@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Detection of Occluding Targets in Natural Images (In press)"
+title: "Detection of Occluding Targets in Natural Images"
 authors: [Walshe, R.C. and Geisler, W.S.]
-date: 2020 
+date: 2020-12-31 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ publishDate: 2020-10-17T20:36:27-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Vision"
+publication: "Journal of Vision (In Press)"
 publication_short: ""
 
 abstract: ""
