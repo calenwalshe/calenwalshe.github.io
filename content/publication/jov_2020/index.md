@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Detection of Occluding Targets in Natural Images (In press)"
-authors: []
+authors: [Walshe, R.C. and Geisler, W.S.]
 date: 2020 
 doi: ""
 
