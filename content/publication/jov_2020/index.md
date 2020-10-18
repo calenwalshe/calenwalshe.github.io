@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Detection of Occluding Targets in Natural Images"
+title: "Detection of Occluding Targets in Natural Images (In press)"
 authors: []
-date: In Press
+date: 2020 
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
