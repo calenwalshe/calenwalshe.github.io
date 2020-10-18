@@ -34,7 +34,7 @@ The University of Texas at Austin
   """
 
 [[experience]]
-  title = "Ph.D, Cognitive and Neural Sciences"
+  title = "Ph.D in Cognitive and Neural Sciences"
   company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh, Scotland"
