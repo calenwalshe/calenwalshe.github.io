@@ -26,8 +26,8 @@ The University of Texas at Austin
 """
   company_url = ""
   location = "Austin, Texas"
-  date_start = "2015-08-01"
-  date_end = ""
+  date_start = ""
+  date_end = "Current"
   description = """
 
 
@@ -38,18 +38,18 @@ The University of Texas at Austin
   company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh, Scotland"
-  date_start = "2011-09-01"
+  date_start = ""
   date_end = "2015-05-01"
   description = """
 
   """
 
 [[experience]]
-  title = "BA (Honors) in Cognitive Science"
+  title = "Bachelors in Cognitive Science"
   company = "Simon Fraser University"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "2005-01-01"
+  date_start = ""
   date_end = "2009-08-01"
   description = """
 
