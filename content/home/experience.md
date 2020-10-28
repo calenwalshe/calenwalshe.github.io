@@ -33,11 +33,12 @@ The University of Texas at Austin
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2009-09-01"
-
+  date_end   = "2011-01-01"
 [[experience]]
   title = "Lab Research Manager"
   company = "Cognitive Science Lab"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "2009-09-01"
+  date_start = "2007-09-01"
+  date_end   = "2009-09-01"
 +++
