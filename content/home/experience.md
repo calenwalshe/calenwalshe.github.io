@@ -21,7 +21,6 @@ date_format = "Jan 2006"
   title = "Postdoctoral Fellow"
   company = """
 The University of Texas at Austin
-
 *Center for Perceptual Systems* and *The Institute for Neuroscience*
 """
   company_url = ""
@@ -30,28 +29,21 @@ The University of Texas at Austin
   date_end = "Current"
   description = """
 
-
-  """
-
 [[experience]]
   title = "Research Scientist"
   company = "Enquiro Search Solutions"
-"""
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "September 2009"
   date_end = "September 2011"
   description = ""
-"""
 
 [[experience]]
   title = "Lab Research Manager"
   company = "Cognitive Science Lab"
-"""
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "September 2008"
   date_end = "September 2009"
   description = ""
-"""
 +++
