@@ -31,11 +31,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Visual Perception"
-    tag =  "signal_detection"
+    tag =  "perception"
 
   [[content.filter_button]]
-    name = "Machine Learning"
-    tag = "machine_learning"
+    name = "Cognitive Science"
+    tag = "cognitive_science"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

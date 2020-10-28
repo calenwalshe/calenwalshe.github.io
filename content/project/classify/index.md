@@ -2,7 +2,7 @@
 title: Accurate error rates for binary quadratic classifiers. 
 summary:
 tags:
-- machine_learning 
+- cognitive_science
 date: "2019-09-24"
 
 # Optional external URL for project (replaces project detail page).

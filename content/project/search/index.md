@@ -2,8 +2,8 @@
 title: Optimal search for targets embedded in natural images. 
 summary: We developed an approach to optimally search for objects in natural scenes. We tested humans against the optimal benchmark to see how well they can do.
 tags:
+- cognitive_science
 - eye_movements
-- machine_learning
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
