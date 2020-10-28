@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Postdoctoral Fellow"
-  company = """The University of Texas at Austin\r
-*Center for Perceptual Systems*\r 
-*The Institute for Neuroscience*`
+  company = """The University of Texas at Austin\n
+*Center for Perceptual Systems*\n 
+*The Institute for Neuroscience*
 """
   company_url = ""
   location = "Austin, Texas"
