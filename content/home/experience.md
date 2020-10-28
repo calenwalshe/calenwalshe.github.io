@@ -34,24 +34,24 @@ The University of Texas at Austin
   """
 
 [[experience]]
-  title = "Ph.D in Cognitive and Neural Sciences"
-  company = "The University of Edinburgh"
-  company_url = ""
-  location = "Edinburgh, Scotland"
-  date_start = ""
-  date_end = "2015-05-01"
-  description = """
-
-  """
-
-[[experience]]
-  title = "Bachelor's in Cognitive Science"
-  company = "Simon Fraser University"
+  title = "Research Scientist"
+  company = "Enquiro Search Solutions"
+"""
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = ""
-  date_end = "2009-08-01"
-  description = """
+  date_start = "September 2009"
+  date_end = "September 2011"
+  description = ""
+"""
 
-  """
+[[experience]]
+  title = "Lab Research Manager"
+  company = "Cognitive Science Lab"
+"""
+  company_url = ""
+  location = "Vancouver, Canada"
+  date_start = "September 2008"
+  date_end = "September 2009"
+  description = ""
+"""
 +++
