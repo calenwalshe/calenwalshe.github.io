@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jared Abrams | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/authors/jared-abrams/</link>
-      <atom:link href="/calenwalshe.github.io/authors/jared-abrams/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/jared-abrams/</link>
+      <atom:link href="/authors/jared-abrams/index.xml" rel="self" type="application/rss+xml" />
     <description>Jared Abrams</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Jared Abrams</title>
-      <link>/calenwalshe.github.io/authors/jared-abrams/</link>
+      <link>/authors/jared-abrams/</link>
     </image>
     
     <item>
       <title>A short talk on progress related to a theory of visual search</title>
-      <link>/calenwalshe.github.io/talk/cps_brown_bag2019/</link>
+      <link>/talk/cps_brown_bag2019/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/cps_brown_bag2019/</guid>
+      <guid>/talk/cps_brown_bag2019/</guid>
       <description></description>
     </item>
     

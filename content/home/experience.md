@@ -26,7 +26,6 @@ The University of Texas at Austin
   company_url = ""
   location = "Austin, Texas"
   date_start = "2015-08-01"
-  date_end = "Current"
 
 [[experience]]
   title = "Research Scientist"
@@ -34,7 +33,6 @@ The University of Texas at Austin
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2009-09-01"
-  description = ""
 
 [[experience]]
   title = "Lab Research Manager"
@@ -42,5 +40,4 @@ The University of Texas at Austin
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2009-09-01"
-  description = ""
 +++

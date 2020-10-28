@@ -2,61 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/talk/</link>
-      <atom:link href="/calenwalshe.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>/calenwalshe.github.io/talk/</link>
+      <link>/talk/</link>
     </image>
     
     <item>
+      <title>A theory of visual search for targets added to natural backgrounds</title>
+      <link>/talk/vss2020/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/vss2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A theory of visual search for foveated visual systems</title>
+      <link>/talk/cosyne2020/</link>
+      <pubDate>Sat, 29 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/cosyne2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Very large dataset and modeling of eye movements and actions during ATARI game play</title>
+      <link>/talk/aaai2020/</link>
+      <pubDate>Fri, 07 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/aaai2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A short talk on progress related to a theory of visual search</title>
-      <link>/calenwalshe.github.io/talk/cps_brown_bag2019/</link>
+      <link>/talk/cps_brown_bag2019/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/cps_brown_bag2019/</guid>
+      <guid>/talk/cps_brown_bag2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Eye movements</title>
-      <link>/calenwalshe.github.io/talk/eyemovements/</link>
+      <link>/talk/eyemovements/</link>
       <pubDate>Wed, 09 Oct 2019 09:15:00 -0500</pubDate>
-      <guid>/calenwalshe.github.io/talk/eyemovements/</guid>
+      <guid>/talk/eyemovements/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A model of optimal visual search and some experiments</title>
-      <link>/calenwalshe.github.io/talk/visualsearch/</link>
+      <link>/talk/visualsearch/</link>
       <pubDate>Wed, 02 Oct 2019 11:00:00 -0500</pubDate>
-      <guid>/calenwalshe.github.io/talk/visualsearch/</guid>
+      <guid>/talk/visualsearch/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A new method to calculate classification accuracy.</title>
-      <link>/calenwalshe.github.io/talk/vss2019_abh/</link>
+      <link>/talk/vss2019_abh/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/vss2019_abh/</guid>
+      <guid>/talk/vss2019_abh/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Comparing Bayes optimal search performance with human search.</title>
-      <link>/calenwalshe.github.io/talk/vss2019/</link>
+      <link>/talk/vss2019/</link>
       <pubDate>Sat, 25 May 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/vss2019/</guid>
+      <guid>/talk/vss2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Presenting work on detection, natural signals and scene statistics.</title>
-      <link>/calenwalshe.github.io/talk/faculty/</link>
+      <link>/talk/faculty/</link>
       <pubDate>Thu, 25 Oct 2018 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/talk/faculty/</guid>
+      <guid>/talk/faculty/</guid>
       <description></description>
     </item>
     

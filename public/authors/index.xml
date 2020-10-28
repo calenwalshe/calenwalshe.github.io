@@ -2,94 +2,110 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/authors/</link>
-      <atom:link href="/calenwalshe.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Nov 2019 12:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/calenwalshe.github.io/authors/</link>
+      <link>/authors/</link>
     </image>
     
     <item>
+      <title>R.C. and Geisler</title>
+      <link>/authors/r.c.-and-geisler/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/r.c.-and-geisler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walshe</title>
+      <link>/authors/walshe/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/walshe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Calen Walshe</title>
-      <link>/calenwalshe.github.io/authors/calen-walshe/</link>
+      <link>/authors/calen-walshe/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/calen-walshe/</guid>
+      <guid>/authors/calen-walshe/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jared Abrams</title>
-      <link>/calenwalshe.github.io/authors/jared-abrams/</link>
+      <link>/authors/jared-abrams/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/jared-abrams/</guid>
+      <guid>/authors/jared-abrams/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wilson Geisler</title>
-      <link>/calenwalshe.github.io/authors/wilson-geisler/</link>
+      <link>/authors/wilson-geisler/</link>
       <pubDate>Mon, 04 Nov 2019 12:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/wilson-geisler/</guid>
+      <guid>/authors/wilson-geisler/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>/calenwalshe.github.io/authors/admin/</link>
+      <link>/authors/admin/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/admin/</guid>
+      <guid>/authors/admin/</guid>
       <description>&lt;p&gt;My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain converts visual perception into intelligent action. The primary set of methods that I use in my research combines behavioral experiments and machine learning. The goal of the work is to develop algorithms that solve perceptual tasks such as object recognition and visual search in similar ways to humans.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>et al.</title>
-      <link>/calenwalshe.github.io/authors/et-al./</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/et-al./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Zhang, R.</title>
-      <link>/calenwalshe.github.io/authors/zhang-r./</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/zhang-r./</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Antje Nuthmann</title>
-      <link>/calenwalshe.github.io/authors/antje-nuthmann/</link>
+      <link>/authors/antje-nuthmann/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/antje-nuthmann/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>McColeman, C., Barnes, J., Chen, L., Meier, K., Walshe, R.C. &amp; Blair, M.</title>
-      <link>/calenwalshe.github.io/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</link>
-      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Nuthmann, A.</title>
-      <link>/calenwalshe.github.io/authors/nuthmann-a./</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/nuthmann-a./</guid>
+      <guid>/authors/antje-nuthmann/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blair, M., Watson, M., Walshe, R.C., Maj, F.</title>
-      <link>/calenwalshe.github.io/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</link>
-      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</guid>
+      <link>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/blair-m.-watson-m.-walshe-r.c.-maj-f./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>et al.</title>
+      <link>/authors/et-al./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/et-al./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>McColeman, C., Barnes, J., Chen, L., Meier, K., Walshe, R.C. &amp; Blair, M.</title>
+      <link>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/mccoleman-c.-barnes-j.-chen-l.-meier-k.-walshe-r.c.-blair-m./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>W.S.</title>
+      <link>/authors/w.s./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/w.s./</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhang, R.</title>
+      <link>/authors/zhang-r./</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/authors/zhang-r./</guid>
       <description></description>
     </item>
     

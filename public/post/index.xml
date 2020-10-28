@@ -2,99 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/post/</link>
-      <atom:link href="/calenwalshe.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 06 Nov 2019 20:32:30 -0600</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 14 Oct 2020 11:35:53 -0500</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Posts</title>
-      <link>/calenwalshe.github.io/post/</link>
+      <link>/post/</link>
     </image>
     
     <item>
+      <title>Our paper Detection of Occluding Targets in Natural Backgrounds is in press at JoV.</title>
+      <link>/post/paper-accepted-jov/</link>
+      <pubDate>Wed, 14 Oct 2020 11:35:53 -0500</pubDate>
+      <guid>/post/paper-accepted-jov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paper modeling eye movements in natural scene perception submitted to Computational Brain and Behavior</title>
+      <link>/post/submission-to-cbb/</link>
+      <pubDate>Mon, 14 Sep 2020 11:35:39 -0500</pubDate>
+      <guid>/post/submission-to-cbb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Steerability of the sum of Gaussians</title>
-      <link>/calenwalshe.github.io/post/steerability/</link>
+      <link>/post/steerability/</link>
       <pubDate>Wed, 06 Nov 2019 20:32:30 -0600</pubDate>
-      <guid>/calenwalshe.github.io/post/steerability/</guid>
-      <description>&lt;p&gt;For one of the projects I&amp;rsquo;m working on we use a Steerable filters to compute local image gradients at different parts of an image. Steerable filters are good because they are i) compact and simple ways to get the filter output from a family of filters from a small set of filters, ii) in the case we use them for they are biologically plausible computations. Sparing the details it became important to figure out whether the derivative of the sum of two Gaussian functions with the same mean but different variance, is Steerable. It turns out they are, which is also what one would intuitive expect. &lt;a href=&#34;https://calenwalshe.com/files/steerability.pdf&#34; target=&#34;_blank&#34;&gt;Here&lt;/a&gt; is a short description of the method used to prove this.&lt;/p&gt;
+      <guid>/post/steerability/</guid>
+      <description>&lt;p&gt;For one of the projects I&amp;rsquo;m working on we use a Steerable filters to compute local image gradients at different parts of an image. Steerable filters are good because they are i) compact and simple ways to get the filter output from a family of filters from a small set of filters, ii) in the case we use them for they are biologically plausible computations. Sparing the details it became important to figure out whether the derivative of the sum of two Gaussian functions with the same mean but different variance, is Steerable. It turns out they are, which is also what one would intuitive expect. &lt;a href=&#34;https://calenwalshe.com/files/steerability.pdf&#34;&gt;Here&lt;/a&gt; is a short description of the method used to prove this.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Recent progress on a theory of visual search</title>
-      <link>/calenwalshe.github.io/post/visual_search_progress/</link>
+      <link>/post/visual_search_progress/</link>
       <pubDate>Sun, 03 Nov 2019 08:29:51 -0600</pubDate>
-      <guid>/calenwalshe.github.io/post/visual_search_progress/</guid>
-      <description>&lt;p&gt;Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. &lt;a href=&#34;https://calenwalshe.com/files/tech_report_nov_1_2019.pdf&#34; target=&#34;_blank&#34;&gt;A report can be found here&lt;/a&gt;&lt;/p&gt;
+      <guid>/post/visual_search_progress/</guid>
+      <description>&lt;p&gt;Here a report on some recent progress on the development of a theory of visual search for objects in natural scenes. The key parts of this theory are i) visibility laws of additive signals in natural scenes ii) the drop off in resolution as a function of retinal position iii) neural decoding uncertainty iv) prior probability that targets will appear at a location, v) efficient decoding of objects in images. &lt;a href=&#34;https://calenwalshe.com/files/tech_report_nov_1_2019.pdf&#34;&gt;A report can be found here&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Is there something so unbelievable that you would assign it probability 0?</title>
-      <link>/calenwalshe.github.io/post/unbelieve/</link>
+      <link>/post/unbelieve/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/unbelieve/</guid>
+      <guid>/post/unbelieve/</guid>
       <description>&lt;p&gt;How much evidence do you need to be convinced in something that is very implausible is actually the case? Or rather, if you really don&amp;rsquo;t believe something to be true, how much evidence do you need to push you all the way to near certainty?&lt;/p&gt;
-
 &lt;p&gt;Of course, this is a question about probabilities so we aren&amp;rsquo;t talking about any kind of knowledge that can be gained without evidence. The kind, for example, where we make definitions and then reason according to a set of rules to get some new knowledge. This kind of reasoning is common in mathematics or law. Most scientific laws, and especially in the rough and tumble world of knowledge in the real world (is this burger fully cooked, is Jones going to arrive late for the meeting again etc&amp;hellip;) we are always working with probability and hence using some data to assign a definite number to a possible state of the world.&lt;/p&gt;
-
 &lt;p&gt;Let&amp;rsquo;s think about an interesting case. You believe that something is very implausible but not all the way down at 0. For example, someone claims to have the miraculous ability to communicate with the deceased. For me, this is very unlikely but I&amp;rsquo;m willing to entertain at least the possibility that it could be true. How low is the probability? I think somewhere around -75 dB. How did I get that number? Basically, I asked myself how many yes/no questions would they have to get right about someone I knew who was deceased that only I would know the answer to. I found by introspecting that after 25 correct responses I would notice a change in my belief. Of course, this number depends on the conditions of the test. This would be 25 questions that I was pretty sure they simply could not know. That&amp;rsquo;s pretty low, much lower than most Hollywood films where the clairvoyant hooks people in with a couple guesses but that&amp;rsquo;s where I&amp;rsquo;m at.&lt;/p&gt;
-
 &lt;p&gt;But how many more guesses would be need to get to really make a big dent in my belief about their powers of clairvoyance? The answer is that with a prior that low more evidence will certainly result in a change in my beliefs but it will never approach certainty. There are always some alternative hypothesis that I would entertain that could explain the data I&amp;rsquo;m observing. These alternatives might also be extremely low, say down at around -50 dB but the important point is that there are competitor hypotheses that are at least more plausible to me than clairvoyance.&lt;/p&gt;
-
-&lt;p&gt;This kind of thinking comes from a straightforward application of Bayes&amp;rsquo; rule to combine evidence and prior beliefs to determine the probability of a hypothesis.&lt;/p&gt;
-
+&lt;p&gt;This kind of thinking comes from a straightforward application of Bayes&#39; rule to combine evidence and prior beliefs to determine the probability of a hypothesis.&lt;/p&gt;
 &lt;p&gt;For the clairvoyance case: C is the proposition that the person has clairvoyance and D is the proposition that they got some number of guesses correct.&lt;/p&gt;
-
 &lt;p&gt;According to Bayes rule:&lt;/p&gt;
-
-&lt;p&gt;$$Pr(C \mid D) = Pr(D \mid C) * Pr&amp;copy; / Pr(D)$$&lt;/p&gt;
-
+&lt;p&gt;$$Pr(C \mid D) = Pr(D \mid C) * Pr(C) / Pr(D)$$&lt;/p&gt;
 &lt;p&gt;I found my prior is $Pr(D) = -75~\text{dB}$.&lt;/p&gt;
-
 &lt;p&gt;The part of this that makes it very difficult to get to near certainty in a case like this is that the value of the denominator $Pr(D)$ is formed by conditioning on a possibly large number of alternative hypothesis, in addition to the hypothesis that the person has clairvoyance: the person happened to actually know the person we are referring to, I&amp;rsquo;m a contestant on a twisted game show, there is a hidden microphone and they are getting answers from someone outside the room etc&amp;hellip; These are all implausible, but less implausible than clairvoyance. To get the probability of the denominator we have by the law of total probability:&lt;/p&gt;
-
 &lt;p&gt;$$Pr(D) = Pr(D \mid C)  Pr(\text{C}) + \sum_{i=1}^{N} Pr(D \mid A_i) Pr(A_i)$$&lt;/p&gt;
-
 &lt;p&gt;If those alternative hypotheses stay more plausible than clairvoyance we are going to stay pretty close to the initially low prior belief.&lt;/p&gt;
-
 &lt;p&gt;Although this example is contrived it has relevance to the real world, especially if one believes that human reasoning is approximately rational. An important footnote here is that nowhere in this setup are we dealing with &lt;em&gt;true&lt;/em&gt; probabilities. It&amp;rsquo;s a statement about subjective states of affairs and how beliefs ought to change under those conditions.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>&#34;Bringing machine learning to vision science before it was hot&#34;</title>
-      <link>/calenwalshe.github.io/post/visionscience/</link>
+      <link>/post/visionscience/</link>
       <pubDate>Tue, 02 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/visionscience/</guid>
+      <guid>/post/visionscience/</guid>
       <description>&lt;p&gt;I probably should have seen this prior to now but there is a lot to read and even good stuff slips through the cracks. It was suggested to a colleague and he presented the work during a journal club. I was impressed by the work.&lt;/p&gt;
-
 &lt;p&gt;Visual salience has been a hot term in vision science since the 90s. The salience model identifies local regions in an image that have higher priority than other local regions. Sometimes it is used to mean areas of an image that will many fixations and sometimes it is used for properties of the image that attract attention without necessarily leading to an eye-movement.&lt;/p&gt;
-
 &lt;p&gt;The schematic shows the basic idea behind the salience model. These ideas were inspired by the understanding the authors had at the time of how visual information propagates through the primate visual system. These ideas are still influential today and even if researchers don&amp;rsquo;t work on the salience model itself there are a lot of interest in the components of the salience model as individual research topics. The idea that the neural code expresses maps of one kind or another is probably the best hope we have of decoding the computations in the brain at a sufficiently rich level.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; alt=&#34;Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;/img/posts/Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34; alt=&#34;Schematic-of-Itti-and-Koch-Saliency-Model-Itti-Koch-Neibur-1998.png&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The schematic also shows that there are a lot of moving parts in the salience model. It is a complicated model and this has lead to many arguements. In my opinion, many of the debates over the salience model have been needlessly fussy.&lt;/p&gt;
-
 &lt;p&gt;This brings me to what I like about Kienzle et al. First of all, they attempt to do what the salience model does: predict eye-movements. While the salience model makes assumptions about image features the authors of this paper make minimal assumptions by taking a data-driven approach.&lt;/p&gt;
-
 &lt;p&gt;They collect many eye-movements in a generic task. By comparing regions that are fixated with regions not fixated they are able to learn a receptive field (filter) that characterizes image salience about as well as the salience model.&lt;/p&gt;
-
 &lt;p&gt;The summary figure for the machine learnt salient shows how their setup works. They learn the kernels from the eye-movement data. Their model learned four kernels. Local image regions are filtered by the kernels, then passed through a point non-linearity and summed up. The resulting value is the salience. There are some additional analyses showing performs comparably to the salience model on several metrics.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts//jov-9-5-7-fig004.jpeg&#34; alt=&#34;jov-9-5-7-fig004.jpeg&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;/img/posts//jov-9-5-7-fig004.jpeg&#34; alt=&#34;jov-9-5-7-fig004.jpeg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This paper is not new, and since this there have been more applications of machine learning to salience. Their approach is simple and successful. As a technical advance there is clear progress. Like many approaches to studying biological vision with machine learning there is a tradeoff between opacity and predictability. Some models are hard to understand but predict well, while others perform conversely. The Kienzle et al. method is not as black box as some others but the connection to the underlying biology is less clear than in the salience model.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Nature is pretty good at building machines.</title>
-      <link>/calenwalshe.github.io/post/normalization/</link>
+      <link>/post/normalization/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/normalization/</guid>
+      <guid>/post/normalization/</guid>
       <description>&lt;p&gt;I think a lot about detection and estimation problems. A detection problem is one in which it pays off to identify the presence or absence of a signal amongst some background noise. This is a problem that has applications all over the place. Transmission of data over the internet relies on detection of discrete pulses encoded in an analog signal. Doctors &amp;quot;detect&amp;quot; cancerous masses in images taken with an x-ray or other technology. Estimation is a different but related problem. In an estimation problem the challenge is to figure out which state the world is in when we only receive some noisy corrupted sample from the world. It is like detection but with estimation we want more than &amp;quot;yes&amp;quot; or &amp;quot;no&amp;quot; we want to know the value behind the noisy samples.&lt;/p&gt;
 
 &lt;p&gt;I think about detection and estimation because they are problems that visual systems are confronted with all the time. They are both problems that biology has solved over and over again to allow organisms to use sense data (signals encoded by the sense organs like the eyes and ears) to understand the environment they are in.&lt;/p&gt;
@@ -111,62 +106,58 @@
 
 &lt;p&gt;The left panel has the results of the no normalization experiment and the right panel has the normalized results. The different coloured lines show what happens when we try and combine different numbers of samples. When averaging things we generally expected the estimate to get better with more samples, normalization or not. The x axis is the way I set the range of noisy units (neurons) in this experiment. The range of variances in the sample range from 0 to an upper limit. The x axis shows that upper limit. A value of 20 here means that the variances of the sample population are from 1 to 20. The values on the y axis is the measure of error. Larger values mean worse estimation performance.&lt;/p&gt;
 
-&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/normalization.png&#34; alt=&#34;normalization&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;figure&gt;&lt;img src=&#34;/img/posts/normalization.png&#34; alt=&#34;normalization&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;To reiterate the analogy to neurons: a single sample is a hypothetical response of a single neuron; all of the samples form a population of neurons. The samples are combined either in a normalized or unnormalized way; the same problem would be true for the population of neurons as well. Neurons differ in how noisy they are, so any rule that combines them would need to take the variation in reliability into account.&lt;/p&gt;
 
 &lt;p&gt;The results of the toy simulation show in a straightforward way how the biological rule of cortical normalization can lead to computational benefits for detection and estimation.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;library&lt;/span&gt;(purrr)
 
-&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;library(purrr)
+true.mu    &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;
+sigma.var &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;seq&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;, length.out &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;5&lt;/span&gt;)
+n.samples  &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;seq&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;)
+b.norm     &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;)
 
-true.mu    &amp;lt;- 20
-sigma.var &amp;lt;- seq(1, 20, length.out = 5)
-n.samples  &amp;lt;- seq(10, 100, 10)
-b.norm     &amp;lt;- c(0,1)
+param.frame &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;expand.grid&lt;/span&gt;(true.mu &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; true.mu, sigma.var &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; sigma.var, n.samples &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; n.samples, b.norm &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; b.norm)
 
-param.frame &amp;lt;- expand.grid(true.mu = true.mu, sigma.var = sigma.var, n.samples = n.samples, b.norm = b.norm)
+param.frame.data &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;by_row&lt;/span&gt;(param.frame, &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x) {
+  n.rms &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1000&lt;/span&gt;
 
-param.frame.data &amp;lt;- by_row(param.frame, function(x) {
-  n.rms &amp;lt;- 1000
-
-  noise.fixed &amp;lt;- seq(1,x$sigma.var,length.out = x$n.samples)
-  obs.sample &amp;lt;- replicate(n.rms, rnorm(x$n.samples, x$true.mu, noise.fixed))
+  noise.fixed &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;seq&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;,x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;sigma.var,length.out &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;n.samples)
+  obs.sample &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;replicate&lt;/span&gt;(n.rms, &lt;span style=&#34;color:#a6e22e&#34;&gt;rnorm&lt;/span&gt;(x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;n.samples, x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;true.mu, noise.fixed))
   
-  if(x$b.norm) {
-    sigma_hat &amp;lt;- apply(obs.sample, 1, var)
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;if&lt;/span&gt;(x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;b.norm) {
+    sigma_hat &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;apply&lt;/span&gt;(obs.sample, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, var)
     
     
-    norm.val &amp;lt;- (1/sigma_hat) / sum(1/sigma_hat)
+    norm.val &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; (&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;sigma_hat) &lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sum&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;sigma_hat)
     
-    obs.sample.1 &amp;lt;- sweep(obs.sample, 1, norm.val, &amp;quot;*&amp;quot;)
+    obs.sample.1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sweep&lt;/span&gt;(obs.sample, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, norm.val, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*&amp;#34;&lt;/span&gt;)
     
-    obs.sample.2 &amp;lt;- colSums(obs.sample.1)
+    obs.sample.2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;colSums&lt;/span&gt;(obs.sample.1)
     
-    error &amp;lt;- mean((obs.sample.2 - true.mu)^2)
+    error &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;((obs.sample.2 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; true.mu)^2)
   
     }else{
       
-      obs.sample.1 &amp;lt;- sweep(obs.sample, 1, 1/x$n.samples, &amp;quot;*&amp;quot;)
+      obs.sample.1 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sweep&lt;/span&gt;(obs.sample, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;x&lt;span style=&#34;color:#f92672&#34;&gt;$&lt;/span&gt;n.samples, &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;*&amp;#34;&lt;/span&gt;)
       
-      obs.sample.2 &amp;lt;- colSums(obs.sample.1)
+      obs.sample.2 &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;colSums&lt;/span&gt;(obs.sample.1)
       
-      error &amp;lt;- mean((obs.sample.2 - true.mu)^2)
+      error &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;((obs.sample.2 &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt; true.mu)^2)
   }
-  data.frame(error = error)
-}, .to = &amp;quot;simulate_col&amp;quot;)
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;data.frame&lt;/span&gt;(error &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; error)
+}, .to &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;simulate_col&amp;#34;&lt;/span&gt;)
 
-param.frame.data.unnest &amp;lt;- param.frame.data %&amp;gt;%
-  unnest()
-
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+param.frame.data.unnest &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; param.frame.data &lt;span style=&#34;color:#f92672&#34;&gt;%&amp;gt;%&lt;/span&gt;
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;unnest&lt;/span&gt;()&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>On news addiction and reading good things not more things.</title>
-      <link>/calenwalshe.github.io/post/information/</link>
+      <link>/post/information/</link>
       <pubDate>Tue, 26 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/information/</guid>
+      <guid>/post/information/</guid>
       <description>&lt;p&gt;Patterns that reduce uncertainty about some aspect of the world are called information. Open your curtains in the morning, see a certain amount of light. Opening your window gives you some information about what time of the morning it is. More light is a pretty reliable way of approximating the time during sunrise.&lt;/p&gt;
 
 &lt;p&gt;Speaking generally, it always seems right that more information is a good thing. If getting more information reduces our uncertainty and we want to be more certain, then collect as much information as possible. This feels right. In fact, it feels so right that it is the default operating mode for most people. Reading news daily or watching news hourly is a pretty common pasttime. The goal here must be to reduce the uncertainty we have about the world. When the news isn&#39;t out with a straighforward mission to decieve us we&#39;ll be getting some good nuggets of information that we can store away for later use in our quest to understand the world. Sure, some of those nuggets will be worse than others but we believe that information accumulates so we&#39;ll take what we can get.&lt;/p&gt;
@@ -188,41 +179,38 @@ param.frame.data.unnest &amp;lt;- param.frame.data %&amp;gt;%
 &lt;p&gt;For situation 2 set n.good to some number and set total.samples to some value lower than that. Then increase p.bad and see what happens. What this does is increase the proportion of low information samples relative to high information samples. The figures show what happens.&lt;/p&gt;
 
 &lt;p&gt;In the following, the proportion of bad samples increases and information goes down.
-&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/info.sample_bad.png&#34; alt=&#34;a&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;figure&gt;&lt;img src=&#34;/img/posts/info.sample_bad.png&#34; alt=&#34;a&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;Next, the total number of samples increase and all are sampled, and the information goes up.
-&lt;figure&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/info.sample_good.png&#34; alt=&#34;b&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;g &amp;lt;- function(n.good, p.bad, total.samples) {
-  n.good &amp;lt;- n.good
-  n.bad &amp;lt;- p.bad * n.good
+&lt;figure&gt;&lt;img src=&#34;/img/posts/info.sample_good.png&#34; alt=&#34;b&#34;&gt;&lt;/figure&gt;&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;g &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(n.good, p.bad, total.samples) {
+  n.good &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; n.good
+  n.bad &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; p.bad &lt;span style=&#34;color:#f92672&#34;&gt;*&lt;/span&gt; n.good
   
-  mu.snr.bad &amp;lt;- -log2(.99)
-  mu.snr.good &amp;lt;- 1/sqrt(10)
+  mu.snr.bad &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;-&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;log2&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;.99&lt;/span&gt;)
+  mu.snr.good &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;sqrt&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;)
   
-  snr.vector &amp;lt;- c(rep(mu.snr.bad, times = round(n.bad)), rep(mu.snr.good, round(n.good)))
+  snr.vector &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;rep&lt;/span&gt;(mu.snr.bad, times &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(n.bad)), &lt;span style=&#34;color:#a6e22e&#34;&gt;rep&lt;/span&gt;(mu.snr.good, &lt;span style=&#34;color:#a6e22e&#34;&gt;round&lt;/span&gt;(n.good)))
   
-  f &amp;lt;- function(n.samples) {
-    info.sample &amp;lt;- sample(snr.vector, n.samples, replace = F)
+  f &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(n.samples) {
+    info.sample &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sample&lt;/span&gt;(snr.vector, n.samples, replace &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; F)
   }
   
-  info.samples &amp;lt;- replicate(1000, f(total.samples))
+  info.samples &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;replicate&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1000&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;f&lt;/span&gt;(total.samples))
   
-  mean(sqrt(colSums(info.samples^2)))
+  &lt;span style=&#34;color:#a6e22e&#34;&gt;mean&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;sqrt&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;colSums&lt;/span&gt;(info.samples^2)))
 }
 
-out.vals &amp;lt;- lapply(seq(0, 1, .01), FUN = function(x) g(100, x, 10))
+out.vals &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;seq&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;.01&lt;/span&gt;), FUN &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x) &lt;span style=&#34;color:#a6e22e&#34;&gt;g&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;100&lt;/span&gt;, x, &lt;span style=&#34;color:#ae81ff&#34;&gt;10&lt;/span&gt;))
 
-snr.frame &amp;lt;- data.frame(x = seq(0, 1, .01), y = unlist(out.vals))
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+snr.frame &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;data.frame&lt;/span&gt;(x &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;seq&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#ae81ff&#34;&gt;.01&lt;/span&gt;), y &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(out.vals))&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>When playing Magnus Carlsen, play him twice.</title>
-      <link>/calenwalshe.github.io/post/probability_puzzle/</link>
+      <link>/post/probability_puzzle/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/probability_puzzle/</guid>
+      <guid>/post/probability_puzzle/</guid>
       <description>&lt;p&gt;The Monty Hall puzzle is entertaining because the result turns out to be counter to intuition. Those are the most entertaining puzzles. The family of puzzles like Monty Hall are so contrived that they don&#39;t resemble reality. Reality, especially when chance and probability is involved is not expected to be &lt;em&gt;more&lt;/em&gt; intuitive than these puzzles. I like them because they are fun to think about but they also remind me how easy it for intuition to lead to wrong conclusions when not applied under the right circumstances.&lt;/p&gt;
 
 &lt;p&gt;Here is another puzzle that resembles the Monty Hall in this regard.&lt;/p&gt;
@@ -253,290 +241,203 @@ snr.frame &amp;lt;- data.frame(x = seq(0, 1, .01), y = unlist(out.vals))
     
     <item>
       <title>Did Monty consider that someone might want the goat?</title>
-      <link>/calenwalshe.github.io/post/montyhall/</link>
+      <link>/post/montyhall/</link>
       <pubDate>Thu, 07 Jul 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/montyhall/</guid>
-      <description>&lt;p&gt;The Monty Hall problem is a classic. I like it because it posed with simple language and hides it&amp;rsquo;s complexity. The first time you hear the puzzle you have a good chance of answering correctly (&lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt;). However, once you start to think about the &lt;em&gt;reason&lt;/em&gt; for your answer you might need to grab a beer and get ready to think a little bit. &lt;a href=&#34;http://www.wired.com/2014/11/monty-hall-erdos-limited-minds/&#34; target=&#34;_blank&#34;&gt;As the story goes&lt;/a&gt;, one of the 20th centuries most famous mathematicians, Paul Erdos, needed several days before he was convinced by the truth of the proposed solution.&lt;/p&gt;
-
-&lt;p&gt;For a full description of the game check out the &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Hall_problem&#34; target=&#34;_blank&#34;&gt;wikipedia page&lt;/a&gt;. The version I&amp;rsquo;m going to describe is stripped down.&lt;/p&gt;
-
+      <guid>/post/montyhall/</guid>
+      <description>&lt;p&gt;The Monty Hall problem is a classic. I like it because it posed with simple language and hides it&amp;rsquo;s complexity. The first time you hear the puzzle you have a good chance of answering correctly (50/50). However, once you start to think about the &lt;em&gt;reason&lt;/em&gt; for your answer you might need to grab a beer and get ready to think a little bit. &lt;a href=&#34;http://www.wired.com/2014/11/monty-hall-erdos-limited-minds/&#34;&gt;As the story goes&lt;/a&gt;, one of the 20th centuries most famous mathematicians, Paul Erdos, needed several days before he was convinced by the truth of the proposed solution.&lt;/p&gt;
+&lt;p&gt;For a full description of the game check out the &lt;a href=&#34;https://en.wikipedia.org/wiki/Monty_Hall_problem&#34;&gt;wikipedia page&lt;/a&gt;. The version I&amp;rsquo;m going to describe is stripped down.&lt;/p&gt;
 &lt;p&gt;There are three doors. Behind one of the doors there is a car and behind the other two doors there are goats. You player is invited to make a guess as to which door hides the car. After making a selection the host will open one of the doors that has a goat. Now, the player is given the opportunity to switch their choice to another door or to stick with their current selection. What would you do?&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/3/3f/Monty_open_door.svg&#34; alt=&#34;smiley&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;If you are like Paul Erdos you would initially think that it doesn&amp;rsquo;t make any difference whether you switch or not. The probability of selecting the car on the first choice is &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. Swapping doesn&amp;rsquo;t change this basic fact. This is the incorrect intuition that many people have for the problem. The correct solution is that one should always swap.&lt;/p&gt;
-
-&lt;p&gt;The best way to show this is with conditional probabilities. In other words, you show that the probability that the car is behind door two given you initially selected door one and the host removed door three is higher than &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;. This is done for us on the wikipedia page.&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/3/3f/Monty_open_door.svg&#34; alt=&#34;smiley&#34;&gt;&lt;/p&gt;
+&lt;p&gt;If you are like Paul Erdos you would initially think that it doesn&amp;rsquo;t make any difference whether you switch or not. The probability of selecting the car on the first choice is 1/3. Swapping doesn&amp;rsquo;t change this basic fact. This is the incorrect intuition that many people have for the problem. The correct solution is that one should always swap.&lt;/p&gt;
+&lt;p&gt;The best way to show this is with conditional probabilities. In other words, you show that the probability that the car is behind door two given you initially selected door one and the host removed door three is higher than 1/3. This is done for us on the wikipedia page.&lt;/p&gt;
 &lt;p&gt;My own intuition for the problem goes as follows:&lt;/p&gt;
-
-&lt;p&gt;The probability of getting the car on the first try is &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; and the probability of not getting it is &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt;.&lt;/p&gt;
-
+&lt;p&gt;The probability of getting the car on the first try is 1/3 and the probability of not getting it is 2/3.&lt;/p&gt;
 &lt;p&gt;Now, break down the switching into these two cases:&lt;/p&gt;
-
-&lt;p&gt;If you happened to guess right the first time switching will be wrong. This happens &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the time.&lt;/p&gt;
-
-&lt;p&gt;On the other hand, if you happened to guess wrong on the first try then switching will always get you the correct door. This happens &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the time.&lt;/p&gt;
-
-&lt;p&gt;It&amp;rsquo;s really as simple as this. Adopting a strategy of switching will result in getting the car &lt;sup&gt;2&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; of the time. A big improvement over the &lt;sup&gt;1&lt;/sup&gt;&amp;frasl;&lt;sub&gt;3&lt;/sub&gt; that we get from staying.&lt;/p&gt;
-
+&lt;p&gt;If you happened to guess right the first time switching will be wrong. This happens 1/3 of the time.&lt;/p&gt;
+&lt;p&gt;On the other hand, if you happened to guess wrong on the first try then switching will always get you the correct door. This happens 2/3 of the time.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s really as simple as this. Adopting a strategy of switching will result in getting the car 2/3 of the time. A big improvement over the 1/3 that we get from staying.&lt;/p&gt;
 &lt;p&gt;Another way to demonstrate this without going to conditional probabilities is run a simulation and see what probabilities come out. Run this code in R.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4&#34;&gt;&lt;code class=&#34;language-R&#34; data-lang=&#34;R&#34;&gt;num_trials &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;100000&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;# number of trials&lt;/span&gt;
 
-&lt;pre&gt;&lt;code class=&#34;language-R&#34;&gt;num_trials &amp;lt;- 100000 # number of trials
+car     &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sample&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;, num_trials,replace &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; T) &lt;span style=&#34;color:#75715e&#34;&gt;# set the door with the car&lt;/span&gt;
+choice  &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;sample&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;:&lt;/span&gt;&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;, num_trials, replace &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; T) &lt;span style=&#34;color:#75715e&#34;&gt;# set the door choice of the contestant&lt;/span&gt;
 
-car     &amp;lt;- sample(1:3, num_trials,replace = T) # set the door with the car
-choice  &amp;lt;- sample(1:3, num_trials, replace = T) # set the door choice of the contestant
+remove_options &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;apply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;cbind&lt;/span&gt;(car,choice), &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;function &lt;/span&gt;(x) &lt;span style=&#34;color:#a6e22e&#34;&gt;setdiff&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;), x)) &lt;span style=&#34;color:#75715e&#34;&gt;# the door(s) the host can choose to remove&lt;/span&gt;
+remove         &lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lapply&lt;/span&gt;(remove_options, &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x) &lt;span style=&#34;color:#a6e22e&#34;&gt;ifelse&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;(x) &lt;span style=&#34;color:#f92672&#34;&gt;&amp;gt;&lt;/span&gt; &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;sample&lt;/span&gt;(x, &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;), x)) &lt;span style=&#34;color:#75715e&#34;&gt;# randomly select a door to remove&lt;/span&gt;
 
-remove_options &amp;lt;- apply(cbind(car,choice), 1, function (x) setdiff(c(1,2,3), x)) # the door(s) the host can choose to remove
-remove         &amp;lt;- lapply(remove_options, function(x) ifelse(length(x) &amp;gt; 1, sample(x, 1), x)) # randomly select a door to remove
-
-swap&amp;lt;- unlist(apply(cbind(choice, remove), 1, function(x) setdiff(c(1,2,3), x))) # always swap door
-sum(swap == car)/length(car) # proportion of swapped choices that match the car door
-&lt;/code&gt;&lt;/pre&gt;
-</description>
+swap&lt;span style=&#34;color:#f92672&#34;&gt;&amp;lt;-&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;unlist&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;apply&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;cbind&lt;/span&gt;(choice, remove), &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;function&lt;/span&gt;(x) &lt;span style=&#34;color:#a6e22e&#34;&gt;setdiff&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;c&lt;/span&gt;(&lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;2&lt;/span&gt;,&lt;span style=&#34;color:#ae81ff&#34;&gt;3&lt;/span&gt;), x))) &lt;span style=&#34;color:#75715e&#34;&gt;# always swap door&lt;/span&gt;
+&lt;span style=&#34;color:#a6e22e&#34;&gt;sum&lt;/span&gt;(swap &lt;span style=&#34;color:#f92672&#34;&gt;==&lt;/span&gt; car)&lt;span style=&#34;color:#f92672&#34;&gt;/&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;length&lt;/span&gt;(car) &lt;span style=&#34;color:#75715e&#34;&gt;# proportion of swapped choices that match the car door&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
     
     <item>
       <title>Where in the world is red?</title>
-      <link>/calenwalshe.github.io/post/colour/</link>
+      <link>/post/colour/</link>
       <pubDate>Thu, 24 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/colour/</guid>
+      <guid>/post/colour/</guid>
       <description>&lt;p&gt;I had a coffee on campus with a friend in the Engineering department. To him, it was completely obvious that the way that perception &lt;em&gt;should&lt;/em&gt; work is that your perceptions should recover exactly what is contained in the distribution of light that strikes the eye. It was an interesting discussion and the following sums up some of our discussion.&lt;/p&gt;
-
 &lt;p&gt;The story of colour vision begins in a part of the eye known as the retina. Within the retina there are hundreds of millions of photosensitive cells called photoreceptors. The primary role of these cells is to convert light (electromagnetic radiation) into electrochemical signals that are passed to regions of the brain that are responsible for vision. In primates, the most important early visual area is called Striate cortex and is located at the back of the brain.&lt;/p&gt;
-
 &lt;p&gt;The type of photoreceptor that takes care of signaling colour is called a cone and primates have three different types of them. Each of the cone classes is distinguished by the wavelength of electromagnetic radiation that they are most sensitive to. L-cones have the strongest response to long wavelength, M-cones respond to medium wavelengths and S-cones respond to short wavelengths.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/cone_sensitivity.gif&#34; alt=&#34;Cone Sensitivity&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;/img/posts/cone_sensitivity.gif&#34; alt=&#34;Cone Sensitivity&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When light strikes the retina the responses of these three different cone classes are combined. The relative responses of these three different types of cones forms that basis of the brains ability to estimate the distribution of the incoming light and perceive it as a particular colour.&lt;/p&gt;
-
 &lt;p&gt;In other words, the cones response function only allows them to respond to light with specific wavelengths. Electromagnetic radiation that falls too far outside the range of wavelengths that a cone can respond to will not influence a cones response and therefore will not influence colour perception.&lt;/p&gt;
-
 &lt;p&gt;There is also a slightly deeper issue to consider here. The goal of colour vision isn&amp;rsquo;t actually about estimating the spectral power distribution (distribution of wavelengths) of a light source. More correctly, it&amp;rsquo;s about using spectral information to track regularities that exist out there in the world.&lt;/p&gt;
-
 &lt;p&gt;Two perceptual phenomena help to make this clear, &lt;em&gt;colour constancy&lt;/em&gt; and &lt;em&gt;colour metamers&lt;/em&gt;.&lt;/p&gt;
-
 &lt;p&gt;Colour constancy is the label that is used to describe an aspect of perception in which an object is perceived to have a relatively uniform colour despite large variations in the wavelengths being emitted from the object. The following illusion is a stark demonstration of this principle. In the illusion, the patches labelled A and B are actually the exact same colour even though the perception of the patches is very different. This is colour constancy at work. The brain is doing some work to estimate the colour that would be expected based on the surrounding context and is discounting the colour that is actually being emitted from the patch.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/grid_illusion.png&#34; alt=&#34;Grid Illusion&#34; /&gt;&lt;/p&gt;
-
+&lt;p&gt;&lt;img src=&#34;/img/posts/grid_illusion.png&#34; alt=&#34;Grid Illusion&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Colour metamers also show that the colour of light and the emitted wavelength are not one and the same. A colour metamer occurs when the perceived colour is identical but the spectral power distribution is completely different. The existence of metamers comes about because the retina is compressing a continuous distribution of wavelengths into responses of three different cone classes.&lt;/p&gt;
-
 &lt;p&gt;In summary, the perception of colour at a location in the world is influenced by more than the wavelength of light that arises from it. The context of the perception matters.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>On the lives lost in the sinking of the Titanic.</title>
-      <link>/calenwalshe.github.io/post/titanic/</link>
+      <link>/post/titanic/</link>
       <pubDate>Wed, 02 Mar 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/titanic/</guid>
+      <guid>/post/titanic/</guid>
       <description>&lt;p&gt;The Titanic left on it&amp;rsquo;s maiden voyage on April 10, 1912 from Southampton to New York City.
 It is one of the most recognizable and iconic disasters of the 20th century. Of the 2,224 passengers and crew that set sail about 1500 of them perished when the ship
 hit an iceberg in the North Atlantic. The catastrophe led to Engineers rethinking the idea that a combination of hull size and durable steel would result in
 an unsinkable mass. The Titanic remains a symbol of the perils of engineering hubris.&lt;/p&gt;
-
 &lt;p&gt;A notable aspect that has received much attention is the lack of lifeboats present on the ship. The 20 lifeboats that were present
 were capable of taking only 1,178 passengers whereas the Titanic had a maximum capacity of 3,327. Clearly, these numbers don&amp;rsquo;t add up.
 Either the engineers had been drinking and designing or they simply could not fathom the idea of the Titanic sinking. I suggest a mixture of both.
 The sad result of the lack of lifeboats is that the majority of the passengers were unable to secure a position on a raft and perished with the sinking of the ship.&lt;/p&gt;
-
 &lt;p&gt;Taking a closer look at the casualties reveals characteristics of early 20th century culture. The first is a preference to prioritize the safety of women and children.
 Looking at the difference in survival between women and men, the risk of perishing was 27% for women, whereas men overall had a 81% risk of perishing. Nearly all children aboard the ship survived.
 Given the lack of lifeboats, the women and children first policy practiced within maritime code was an important factor in determining the increased rates of survivorship amongst women.&lt;/p&gt;
-
 &lt;p&gt;There is a more unpleasant aspect that arises from the survivor data from the Titanic.
 The data starkly demonstrate how wealth and class can influence exposure to risk, even under highly volatile disaster situations.&lt;/p&gt;
-
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th align=&#34;right&#34;&gt;Class&lt;/th&gt;
-&lt;th align=&#34;left&#34;&gt;Gender&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Risk&lt;/th&gt;
-&lt;th align=&#34;right&#34;&gt;Odds&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Class&lt;/th&gt;
+&lt;th style=&#34;text-align:left&#34;&gt;Gender&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Risk&lt;/th&gt;
+&lt;th style=&#34;text-align:right&#34;&gt;Odds&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
-
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;female&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.03&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.04&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;female&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.03&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.04&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;1&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;male&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.66&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1.93&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;male&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.66&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1.93&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;female&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.11&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.13&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;female&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.11&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.13&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;2&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;male&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.85&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.84&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;2&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;male&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.85&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5.84&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;female&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.51&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;1.04&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;female&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.51&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;1.04&lt;/td&gt;
 &lt;/tr&gt;
-
 &lt;tr&gt;
-&lt;td align=&#34;right&#34;&gt;3&lt;/td&gt;
-&lt;td align=&#34;left&#34;&gt;male&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;0.85&lt;/td&gt;
-&lt;td align=&#34;right&#34;&gt;5.57&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;3&lt;/td&gt;
+&lt;td style=&#34;text-align:left&#34;&gt;male&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;0.85&lt;/td&gt;
+&lt;td style=&#34;text-align:right&#34;&gt;5.57&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-
 &lt;p&gt;The odds of perishing in the sinking of the Titanic are 26 times higher if you are a women in third class than if you are a woman in first class and about 3 times higher for men in third class.
 This is a powerful indication of how the systems that were in place to protect passengers were biased towards protecting those with wealth. In other words, those who could afford
 a first class ticket were not only given greater luxury but their lives were given a higher priority as well.&lt;/p&gt;
-
 &lt;p&gt;Events like the Titanic can be highly revelatory. The Titanic was an important event in changing opinions about disaster preparedness. Large scale, unusual, and impactful events do not occur very often but when they do their novelty provides a unique window into the operation of systems that often remain obscured from view.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/img/posts/Gender.bmp&#34; alt=&#34;Gender&#34; /&gt;
-&lt;img src=&#34;/calenwalshe.github.io/img/posts/Class.bmp&#34; alt=&#34;Class&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/img/posts/Gender.bmp&#34; alt=&#34;Gender&#34;&gt;
+&lt;img src=&#34;/img/posts/Class.bmp&#34; alt=&#34;Class&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>The Princess Bride does game theory.</title>
-      <link>/calenwalshe.github.io/post/vizini/</link>
+      <link>/post/vizini/</link>
       <pubDate>Sat, 20 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/vizini/</guid>
+      <guid>/post/vizini/</guid>
       <description>&lt;p&gt;The Alamo Draft House is a local theatre company here in Austin. Their bread and butter is putting on the current hits but they also make a solid focus on showing cult hits. Over at the Ritz yesterday they put on the Princess Bride (1987) a love story staring a young Claire Underwood (Robin Wright) in the innocent days before being corrupted by Frank and the dirty lies of the US Senate.&lt;/p&gt;
-
 &lt;p&gt;One of the great scenes in this film is when the masked hero, Wesley, challenges Vizzini, one of the villians, to a battle of wits. The scene is humourous, but it has some underlying lessons for students of game theory and the psychology of human decision making. The scene begins as Vizzini clutches the Princess Buttercup (aka Claire Underwood/Robin Wright) and theatens to kill her if the hero Wesley steps any closer. Vizzini has cause to be worried, Wesley has just won a duel with a master swordsman and rendered a Giant unconscious in hand to hand combat. Vizzini does not possess any physical strength, but he does proclaim himself to have a massive intellect. Here is what Vizzini has to say about himself:&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Hero: You&amp;rsquo;re that smart?&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Let me put it this way: have you ever heard of Plato, Aristotle, Socrates?&lt;/p&gt;
-
 &lt;p&gt;Hero: Yes.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Morons.&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;So Vizzini is smart. Therefore, the only way for our hero to overcome Vizzini is to challenge him to a game of wits and this is exactly what he does. Being über confident in his abundant intellect Vizzini accepts the challenge.&lt;/p&gt;
-
 &lt;p&gt;Here is the game they play:&lt;/p&gt;
-
 &lt;p&gt;There are two cups of wine on the table. The masekd hero hides the two cups of wine and informs Vizzini that he has placed a powerful poison, Iocane, in one of the cups. Each contestant will drink from one of the cups with Vizzini getting to chose who drinks which cup. The stakes are that whoever drinks from the poised cup will presumably die.&lt;/p&gt;
-
 &lt;p&gt;So why is this game wits? At first blush, it might seem like this is more a game of pure chance. Sort of like playing Russian Roulette with an equal number of blanks and bullets. What makes this into a game of wits is when we consider the possibility that Vizzini could have a reasonably good model of the Hero&amp;rsquo;s psychological processes that went into choosing which cup to place the poison in. In other words, Vizzini could attempt to read the Hero&amp;rsquo;s mind.&lt;/p&gt;
-
 &lt;p&gt;Vizzini is, &amp;ldquo;like, a really smart person&amp;rdquo; and he verbalises his reasoning process:&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Hero: All right: where is the poison? The battle of wits has begun. It ends when you decide and we both drink, and find out who is right and who is dead.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: But it&amp;rsquo;s so simple. All I have to do is divine from what I know of you. Are you the sort of man who would put the poison into his own goblet, or his enemy&amp;rsquo;s? [pauses to study the Hero] Now, a clever man would put the poison into his own goblet, because he would know that only a great fool would reach for what he was given. I&amp;rsquo;m not a great fool, so I can clearly not choose the wine in front of you. But you must have known I was not a great fool; you would have counted on it, so I can clearly not choose the wine in front of me.&lt;/p&gt;
-
 &lt;p&gt;Hero: You&amp;rsquo;ve made your decision then?&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Not remotely. Because iocaine comes from Australia, as everyone knows. And Australia is entirely peopled with criminals. And criminals are used to having people not trust them, as you are not trusted by me. So I can clearly not choose the wine in front of you.&lt;/p&gt;
-
 &lt;p&gt;Hero: Truly, you have a dizzying intellect.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Wait till I get going! Where was I?&lt;/p&gt;
-
 &lt;p&gt;Hero: Australia.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Yes &amp;ndash; Australia, and you must have suspected I would have known the powder&amp;rsquo;s origin, so I can clearly not choose the wine in front of me.&lt;/p&gt;
-
 &lt;p&gt;Hero: [beginning nervousness] You&amp;rsquo;re just stalling now.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: You&amp;rsquo;d like to think that, wouldn&amp;rsquo;t you? You&amp;rsquo;ve beaten my giant, which means you&amp;rsquo;re exceptionally strong. So, you could have put the poison in your own goblet, trusting on your strength to save you. So I can clearly not choose the wine in front of you. But, you&amp;rsquo;ve also bested my Spaniard which means you must have studied. And in studying, you must have learned that man is mortal so you would have put the poison as far from yourself as possible, so I can clearly not choose the wine in front of me.&lt;/p&gt;
-
 &lt;p&gt;Hero: [nervously] You&amp;rsquo;re trying to trick me into giving away something &amp;ndash; it won&amp;rsquo;t work &amp;ndash;&lt;/p&gt;
-
 &lt;p&gt;Vizzini: [triumphant] It has worked &amp;ndash; you&amp;rsquo;ve given everything away &amp;ndash; I know where the poison is.&lt;/p&gt;
-
 &lt;p&gt;Hero: [fool&amp;rsquo;s courage] Then make your choice.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: I will. And I choose [stops suddenly and points at something behind the Man in Black] what in the world can that be?&lt;/p&gt;
-
 &lt;p&gt;Hero: [Turns, looks] What? Where? I don&amp;rsquo;t see anything.&lt;/p&gt;
-
 &lt;p&gt;Vizzini quickly switches the goblets while the Hero has his head turned.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: Oh, well, I-I could have sworn I saw something. No matter.&lt;/p&gt;
-
 &lt;p&gt;The Hero turns to face him again. Vizzini starts to laugh.&lt;/p&gt;
-
 &lt;p&gt;Hero: What&amp;rsquo;s so funny?&lt;/p&gt;
-
 &lt;p&gt;Vizzini: I&amp;rsquo;ll tell you in a minute. First, let&amp;rsquo;s drink &amp;ndash; me from my glass, and you from yours.&lt;/p&gt;
-
 &lt;p&gt;And he picks up his goblet. The Hero picks up the one in front of him. As they both start to drink, Vizzini hesitates a moment. Allowing the MAN IN BLACK to drink first, he swallows his wine.&lt;/p&gt;
-
 &lt;p&gt;Hero: You guessed wrong.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: [roaring with laughter] You only think I guessed wrong&amp;hellip; [louder now] &amp;hellip;that&amp;rsquo;s what&amp;rsquo;s so funny! I switched glasses when your back was turned. Ha-ha, you fool.&lt;/p&gt;
-
 &lt;p&gt;The Hero sits silently.&lt;/p&gt;
-
 &lt;p&gt;Vizzini: You fell victim to one of the classic blunders. The most famous is &amp;ldquo;Never get involved in a land war in Asia.&amp;rdquo; But only slightly less well known is this: &amp;ldquo;Never go in against a Sicilian when death is on the line!Ahahahaha, ahahahaha, ahahaha&amp;ndash;&lt;/p&gt;
-
-&lt;hr /&gt;
-
+&lt;hr&gt;
 &lt;p&gt;Game theory is one of the jewels of 20th century intellectual achievements. It gives us a way to understand games such as the one that is played here by provided a framework for understanding how certain games &amp;lsquo;ought&amp;rsquo; to be played when the players are making choices that are in their best interests. In game theory, you will often see the term rationality being bandied about. In many game theoretic settings the goal is determine what a rational decision maker would do given the available information and a certain goal. Rational typically means self interested because a rational decision is one that maximizes the payoff for individual and does not consider the harm to the competitor.&lt;/p&gt;
-
-&lt;p&gt;So let&amp;rsquo;s assume that Vizzini is a rational decision maker. In a two player game such as we have in the film the information that he gets from the arrangement of the cups is nil. Instead, Vizzini must try and determine whether he can exploit any hidden patterns in the Hero&amp;rsquo;s reasoning and exploit this pattern to gain information about which cup has the poison. In this case, Vizzini is assuming that the Hero is not a &lt;em&gt;fully rational agent&lt;/em&gt;, if he was then there would be no way to get better than a &lt;sup&gt;50&lt;/sup&gt;&amp;frasl;&lt;sub&gt;50&lt;/sub&gt; chance at determining which cup has the poison.&lt;/p&gt;
-
+&lt;p&gt;So let&amp;rsquo;s assume that Vizzini is a rational decision maker. In a two player game such as we have in the film the information that he gets from the arrangement of the cups is nil. Instead, Vizzini must try and determine whether he can exploit any hidden patterns in the Hero&amp;rsquo;s reasoning and exploit this pattern to gain information about which cup has the poison. In this case, Vizzini is assuming that the Hero is not a &lt;em&gt;fully rational agent&lt;/em&gt;, if he was then there would be no way to get better than a 50/50 chance at determining which cup has the poison.&lt;/p&gt;
 &lt;p&gt;In reality, it would probably be impossible for Vizzini to make use of any such reasoning to any effect. Firstly, he doesn&amp;rsquo;t know the Hero which means he doesn&amp;rsquo;t have much input to calculate the Hero&amp;rsquo;s decision making biases. Secondly, even if he did know the Hero very well it is likely to be well beyond the capability of human reasoning to determine the role of decision making biases in such a case as there are non-linearities in the way that multiple sources of information are combined to make a decision. The result is that any signal will be almostly completely obscured by the background noise.&lt;/p&gt;
-
 &lt;p&gt;However, in simpler games that are actually quite similar to Wesley&amp;rsquo;s game we can actually obtain solutions. Consider the game of buying a car. The game is to get the best price you can on the car that you want. In other words, you want to beat the car sellers market. You might discover that during Winter there are the greatest number of cars put up on the market. Being smart, like Vizzini, you might think that this will lead you to get a deal. Not so fast, this is a bit too easy. Other buyers probably are able to figure this out as well and there might very well be a glut of &lt;em&gt;buyers&lt;/em&gt; in the market and thus lead to inflated sales prices. So know you need to ask yourself, how far is the average car buyer likely to take this? If other car buyers know that other car buyers know that spring is a good time to buy a car maybe they&amp;rsquo;ll buy a car in the Fall instead, which is the period of the year during which the second highest volume of cars is available. Buyers might take this even one step further and realize that other car buyers might have access to the same information. This might bias them to pick another time of the year to buy. In other words, the real challenge here is figuring out how deep the other buyers estimates go and what information that have access to. If all buyers had access to the same information and were equally rational there would be no gaming the system. However, in human systems this is patently not the case and opportunities for advantage can emerge.&lt;/p&gt;
-
-&lt;p&gt;The New York Times has an &lt;a href=&#34;http://www.nytimes.com/interactive/2015/08/13/upshot/are-you-smarter-than-other-new-york-times-readers.html&#34; target=&#34;_blank&#34;&gt;interactive example&lt;/a&gt; of a variant of the Princess Bride game. See how you do!&lt;/p&gt;
+&lt;p&gt;The New York Times has an &lt;a href=&#34;http://www.nytimes.com/interactive/2015/08/13/upshot/are-you-smarter-than-other-new-york-times-readers.html&#34;&gt;interactive example&lt;/a&gt; of a variant of the Princess Bride game. See how you do!&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>History is beautiful.</title>
-      <link>/calenwalshe.github.io/post/history/</link>
+      <link>/post/history/</link>
       <pubDate>Wed, 17 Feb 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/history/</guid>
+      <guid>/post/history/</guid>
       <description>&lt;p&gt;A historical map distributed by the Rand McNally company. Time goes down the map and the relative size of the empire is given by the amount of area that it takes up at any specific time. What strikes me is the historical continuity presented in the map. For example, the Chinese empires rose and fell, but the civilization itself has remained active throughout all of recorded history.&lt;/p&gt;
-
 &lt;p&gt;We can also see the emergence of the Roman Empire in classical antiquity and its scale on the map shows the behemoth that it became. Rome was in conflict with all other major powers. Roman gains translated directly into losses for the other empires.&lt;/p&gt;
-
 &lt;p&gt;I&amp;rsquo;m interested to know more about how the Persian empire transitioned into the Seleucid and Bactrian Kingdoms. Furthermore, what was the relationship between the Persians of ancient antiquity and the Sassanian Persians? The greatest asset of such a map is its ability to stimulate such questions.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;/calenwalshe.github.io/static/img/posts/histomap.jpg&#34; alt=&#34;where is the image&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;/static/img/posts/histomap.jpg&#34; alt=&#34;where is the image&#34;&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Come out to a public talk I&#39;ll be giving on UT campus.</title>
-      <link>/calenwalshe.github.io/post/public_talk/</link>
+      <link>/post/public_talk/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/post/public_talk/</guid>
+      <guid>/post/public_talk/</guid>
       <description>&lt;p&gt;A talk is planned at the Molatov Seminar series on Friday, October 12, 2018. The Molatov Seminars is described by its organizers as: &amp;ldquo;Molotov Seminar hosts talks at UT by anyone, for anyone, on anything.&amp;rdquo;&lt;/p&gt;
-
 &lt;p&gt;I plan to do just that and will discuss economic inequality from a statistical perspective. A topic I don&amp;rsquo;t work on professionally but am very interested. I hope to stimulate a good discussion at the least.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://calendar.utexas.edu/event/molotov_seminar_82_whats_causing_todays_politics_economics#.XJrf5xNKh24&#34; target=&#34;_blank&#34;&gt;Here is a link to the announcement&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://calendar.utexas.edu/event/molotov_seminar_82_whats_causing_todays_politics_economics#.XJrf5xNKh24&#34;&gt;Here is a link to the announcement&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     

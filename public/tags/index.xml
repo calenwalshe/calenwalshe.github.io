@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags | R. Calen Walshe</title>
-    <link>/calenwalshe.github.io/tags/</link>
-      <atom:link href="/calenwalshe.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 24 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/calenwalshe.github.io/img/icon-192.png</url>
+      <url>/img/icon-192.png</url>
       <title>Tags</title>
-      <link>/calenwalshe.github.io/tags/</link>
+      <link>/tags/</link>
     </image>
     
     <item>
-      <title>machine_learning</title>
-      <link>/calenwalshe.github.io/tags/machine_learning/</link>
+      <title>cognitive_science</title>
+      <link>/tags/cognitive_science/</link>
       <pubDate>Tue, 24 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/machine_learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>eye_movements</title>
-      <link>/calenwalshe.github.io/tags/eye_movements/</link>
-      <pubDate>Sat, 21 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/eye_movements/</guid>
+      <guid>/tags/cognitive_science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>/calenwalshe.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Tue, 30 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Source Themes</title>
-      <link>/calenwalshe.github.io/tags/source-themes/</link>
+      <link>/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/source-themes/</guid>
+      <guid>/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>signal_detection</title>
-      <link>/calenwalshe.github.io/tags/signal_detection/</link>
+      <title>eye_movements</title>
+      <link>/tags/eye_movements/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>/calenwalshe.github.io/tags/signal_detection/</guid>
+      <guid>/tags/eye_movements/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>perception</title>
+      <link>/tags/perception/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/perception/</guid>
       <description></description>
     </item>
     
