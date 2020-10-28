@@ -25,17 +25,15 @@ The University of Texas at Austin
 """
   company_url = ""
   location = "Austin, Texas"
-  date_start = ""
+  date_start = "2015-08-01"
   date_end = "Current"
-  description = """
 
 [[experience]]
   title = "Research Scientist"
   company = "Enquiro Search Solutions"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "September 2009"
-  date_end = "September 2011"
+  date_start = "2009-09-01"
   description = ""
 
 [[experience]]
@@ -43,7 +41,6 @@ The University of Texas at Austin
   company = "Cognitive Science Lab"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "September 2008"
-  date_end = "September 2009"
+  date_start = "2009-09-01"
   description = ""
 +++
