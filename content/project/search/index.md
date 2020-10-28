@@ -1,6 +1,6 @@
 ---
-title: Bayesian search for objects in natural scenes 
-summary: We developed an algorithm to optimally search for objects in natural scenes. We tested humans against our optimal benchmark.
+title: Optimal search for targets embedded in natural images. 
+summary: We developed an approach to optimally search for objects in natural scenes. We tested humans against the optimal benchmark to see how well they can do.
 tags:
 - eye_movements
 - machine_learning
