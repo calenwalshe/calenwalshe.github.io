@@ -18,22 +18,18 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I study human and machine vision using experiments and modeling.
+bio: .
 
 interests:
-- Human and Machine Vision
-- Machine Learning and Decision Making
+- Vision
 - Cognitive Science
 
 education:
   courses:
-  - course: PhD in Psychology, Cognitive Neuroscience
+  - course: PhD in Cognitive and Neural Sciences
     institution: The University of Edinburgh, Scotland
     year: 2015
-  - course: MA in Psychology, Cognitive and Neural Sciences
-    institution: Simon Fraser University, Canada
-    year: 2011
-  - course: BA in Cognitive Science
+  - course: Bachelor's in Cognitive Science
     institution: Simon Fraser University, Canada
     year: 2009
 
