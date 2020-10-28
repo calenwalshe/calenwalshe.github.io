@@ -21,7 +21,8 @@ date_format = "Jan 2006"
   title = "Postdoctoral Fellow"
   company = """
 The University of Texas at Austin
-*Center for Perceptual Systems* and *The Institute for Neuroscience*
+*Center for Perceptual Systems* 
+*The Institute for Neuroscience*
 """
   company_url = ""
   location = "Austin, Texas"
