@@ -27,3 +27,5 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+An preprint can be found [here](Occluding_target_detection_in_press.pdf).
