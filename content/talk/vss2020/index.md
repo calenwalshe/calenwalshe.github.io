@@ -28,10 +28,6 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/calenwalshe
 url_code: ""
 url_pdf: talk/vss2019/poster_vss_2019_search.pdf
 url_slides: ""
