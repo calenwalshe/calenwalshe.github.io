@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>W.S. | R. Calen Walshe</title>
+    <link>/authors/w.s./</link>
+      <atom:link href="/authors/w.s./index.xml" rel="self" type="application/rss+xml" />
+    <description>W.S.</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>W.S.</title>
+      <link>/authors/w.s./</link>
+    </image>
+    
+    <item>
+      <title>Detection of Occluding Targets in Natural Images</title>
+      <link>/publication_bak/jov_2020/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/jov_2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

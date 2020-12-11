@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | R. Calen Walshe</title>
+    <link>/publication_bak/</link>
+      <atom:link href="/publication_bak/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Publications</title>
+      <link>/publication_bak/</link>
+    </image>
+    
+    <item>
+      <title>Detection of Occluding Targets in Natural Images</title>
+      <link>/publication_bak/jov_2020/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/jov_2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Atari-HEAD: Atari Human Eye-Tracking and Demonstration Dataset</title>
+      <link>/publication_bak/deep/</link>
+      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mechanisms of saccadic decision making while encoding naturalistic scenes</title>
+      <link>/publication_bak/jov/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/jov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asymmetrical control of fixation durations in scene viewing</title>
+      <link>/publication_bak/vr/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/vr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning-Induced Changes in Attentional Allocation during Categorization: A Sizable Catalog of Attention Change as Measured by Eye Movements</title>
+      <link>/publication_bak/plos/</link>
+      <pubDate>Fri, 31 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/plos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Extremely selective attention: Eye-tracking studies of the dynamic allocation of attention to stimulus features in categorization</title>
+      <link>/publication_bak/jep/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication_bak/jep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
