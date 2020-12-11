@@ -33,7 +33,7 @@ url_pdf: https://aaai.org/ojs/index.php/AAAI/article/view/6161
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -43,7 +43,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- machine_learning
+- cognitive-science
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
