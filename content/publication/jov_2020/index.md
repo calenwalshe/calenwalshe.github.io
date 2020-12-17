@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https:://calen.walshe.com/files/jov_2020.pdf
+url_pdf: jov_2020.pdf
 url_code:
 url_dataset:
 url_poster:
