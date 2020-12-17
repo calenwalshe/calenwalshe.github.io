@@ -38,11 +38,11 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf:
+url_pdf: https:://calen.walshe.com/files/jov_2020.pdf
 url_code:
 url_dataset:
 url_poster:
-url_project: https://jov.arvojournals.org/issues.aspx
+url_project: 
 url_slides:
 url_source:
 url_video:
