@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Our paper Detection of Occluding Targets in Natural Backgrounds is in press at JoV."
+title: "Our paper on the detection of occluding objects in natural images is published in the December issue of the Journal of Vision."
 subtitle: ""
 summary: ""
 authors: []
@@ -16,7 +16,7 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "www.calenwalshe.com/files/jov_cover_issue.png"
   focal_point: ""
   preview_only: false
 
@@ -28,4 +28,4 @@ image:
 projects: []
 ---
 
-A preprint can be found [here](http://calenwalshe.com/files/Occluding_target_detection_in_press.pdf).
+Find the article on the journal website [here](https://jov.arvojournals.org/article.aspx?articleid=2772102).
