@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Invited speaker at the Pestilli lab talk series."
+title: "Pestilli Lab Speaker Series"
 event:
 event_url:
 location:
