@@ -28,17 +28,18 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
 
 [[experience]]
+  title = "Instructor - Statistical Programming with R"
+  company = "The University of Edinburgh"
+  company_url = ""
+  location = "Vancouver, Canada"
+  date_start = "2011-09-01"
+  date_end   = "2015-09-01"
+
+[[experience]]
   title = "Research Scientist"
   company = "Enquiro Search Solutions"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2009-09-01"
-  date_end   = "2011-01-01"
-[[experience]]
-  title = "Lab Research Manager"
-  company = "Cognitive Science Lab"
-  company_url = ""
-  location = "Vancouver, Canada"
-  date_start = "2007-09-01"
-  date_end   = "2009-09-01"
+  date_end   = "2011-09-01"
 +++
