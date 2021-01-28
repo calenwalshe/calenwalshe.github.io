@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   title = "Instructor - Statistical Programming with R"
   company = "The University of Edinburgh"
   company_url = ""
-  location = "Vancouver, Canada"
+  location = "Edinburgh, Scotland"
   date_start = "2011-09-01"
   date_end   = "2015-09-01"
 
