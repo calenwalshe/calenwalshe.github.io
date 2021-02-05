@@ -1,5 +1,5 @@
 ---
-title: Allocating attention for high accuracy and low cost search.
+title: Lawful allocation of visual attention in the visual cortex.
 summary:
 tags:
 - attention
