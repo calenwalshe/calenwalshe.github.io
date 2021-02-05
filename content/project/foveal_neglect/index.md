@@ -1,5 +1,5 @@
 ---
-title: Allocating attention for high accuracy and low cost during search.
+title: Allocating attention for high accuracy and low cost search.
 summary:
 tags:
 - attention

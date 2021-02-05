@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
-    name = "Eye movements"
-    tag = "eye_movements"
+    name = "Attention"
+    tag = "attention"
   
   [[content.filter_button]]
-    name = "Visual Perception"
-    tag =  "perception"
+    name = "Decision Making"
+    tag =  "decision_making"
 
   [[content.filter_button]]
-    name = "Cognitive Science"
-    tag = "cognitive_science"
+    name = "Natural Systems Analysis"
+    tag = "natural_systems_analysis"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
