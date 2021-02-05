@@ -2,7 +2,7 @@
 title: Saccadic Decision Making
 summary: How does the visual system decide when to move the eyes when viewing natural scenes?
 tags:
-- eye_movements
+- decision_making
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

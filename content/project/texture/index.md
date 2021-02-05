@@ -1,8 +1,8 @@
 ---
 title: Detection of camouflaged textures
-summary: How studied how edges are used by human vision to detect camouflage.
+summary: To study the importance of edges in detecting camouflaged objects.
 tags:
-- perception
+- natural_systems_analysis
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

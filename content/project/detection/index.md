@@ -1,8 +1,8 @@
 ---
 title: Detection of objects in natural images. 
-summary: Our works develops a near-optimum detector for objects in natural images. Through experiments we learn the image features used by human observers to solve some object detection tasks.
+summary: We developed a near-optimum detector for objects embedded in natural images. In experiments we tested the algorithm against the performance of human observers.
 tags:
-- perception
+- natural_systems_analysis
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
