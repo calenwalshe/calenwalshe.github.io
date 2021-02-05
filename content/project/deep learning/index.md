@@ -1,5 +1,5 @@
 ---
-title: Using human attention to improve how how neural networks play ATARI games. 
+title: Using human attention to improve deep learning performance in ATARI games. 
 summary: Incorporating human gaze improves imitation learning of human actions in ATARI games.
 tags: 
 - attention
