@@ -1,5 +1,5 @@
 ---
-title: Lawful allocation of visual attention in the visual cortex.
+title: Efficient and lawful allocation of attention in the visual cortex.
 summary:
 tags:
 - attention
