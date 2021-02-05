@@ -65,5 +65,3 @@ user_groups:
 - Researchers
 - Visitors
 ---
-
-My work as a scientist has taken me in many directions that all have a common theme: to understand how the brain converts visual perception into intelligent action. The primary set of methods that I use in my research combines behavioral experiments and machine learning. The goal of the work is to develop algorithms that solve perceptual tasks such as object recognition and visual search in similar ways to humans.
