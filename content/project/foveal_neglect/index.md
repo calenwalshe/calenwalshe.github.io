@@ -29,3 +29,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides:
 ---
+
+More details coming soon.
