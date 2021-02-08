@@ -30,4 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-More details coming soon.
+More details to come. Most recently the project was presented at [COSYNE](https://www.calenwalshe.com/talk/cosyne2020/).
+
+
