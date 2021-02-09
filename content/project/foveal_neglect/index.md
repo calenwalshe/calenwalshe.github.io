@@ -30,6 +30,6 @@ url_video: ""
 slides: ""
 ---
 
-More details to come. Most recently the project was presented at [COSYNE](https://www.calenwalshe.com/talk/cosyne2020/).
+More details to come. Most recently the project was presented at [Computational and Systems Neuroscience Conference](https://www.calenwalshe.com/talk/cosyne2020/).
 
 
