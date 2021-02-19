@@ -28,11 +28,11 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
 
 [[experience]]
-  title = "Research Fellow"
-  company = "The University of Edinburgh"
+  title = "Data Scientist"
+  company = "The Journal"
   company_url = ""
   location = "Edinburgh, Scotland"
-  date_start = "2011-09-01"
+  date_start = "2013-09-01"
   date_end   = "2015-09-01"
 
 [[experience]]
