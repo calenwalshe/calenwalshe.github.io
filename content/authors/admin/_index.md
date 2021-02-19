@@ -21,7 +21,7 @@ organizations:
 bio: .
 
 interests:
-- Vision
+- Perception & Decision Making
 - Cognitive Science
 
 education:
@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Current projects are focused on studying how the early stage of image formation in the human visual system impacts the encoding and decoding of features relevant for behaviors such as object recognition, search and attention. 
+Current projects are focused on researching the early stages of image encoding in the human visual system and how this impacts behaviors like search, object recognition and decision making.
