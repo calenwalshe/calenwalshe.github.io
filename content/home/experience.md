@@ -36,8 +36,8 @@ date_format = "Jan 2006"
   date_end   = "2015-09-01"
 
 [[experience]]
-  title = "Research Scientist"
-  company = "Enquiro Search Solutions"
+  title = "Technical Consultant"
+  company = "Mediative"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2009-09-01"
