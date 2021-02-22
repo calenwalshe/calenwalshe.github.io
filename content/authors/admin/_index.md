@@ -22,7 +22,7 @@ bio: .
 
 interests:
 - Perception & Decision Making
-- Cognitive Science
+- Eye Movements & Visual Attention
 
 education:
   courses:
