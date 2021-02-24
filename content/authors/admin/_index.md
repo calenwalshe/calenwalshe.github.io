@@ -66,4 +66,4 @@ user_groups:
 - Visitors
 ---
 
-Current projects are focused on researching the early stages of image encoding in the human visual system and how this impacts behaviors like search, object recognition and decision making.
+Current projects are focused on researching the early stages of image encoding in the human visual system and how this impacts behaviors like search, object recognition and decision making. 
