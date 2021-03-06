@@ -14,7 +14,7 @@ role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Texas at Austin
+- name: The Center for Perceptual Systems
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
