@@ -36,7 +36,7 @@ date_format = "Jan 2006"
   date_end   = "2015-09-01"
 
 [[experience]]
-  title = "Technical Consultant"
+  title = "Research Internship"
   company = "Mediative"
   company_url = ""
   location = "Vancouver, Canada"
