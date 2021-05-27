@@ -37,7 +37,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Internship"
-  company = "Enquiro Search Solutions"
+  company = "Mediative"
   company_url = ""
   location = "Vancouver, Canada"
   date_start = "2010-06-01"
