@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Cognitive and Neural Sciences
+  - course: PhD in Cognitive Neuroscience
     institution: The University of Edinburgh, Scotland
     year: 2015
   - course: Bachelor's in Cognitive Science
