@@ -29,7 +29,10 @@ education:
   - course: PhD in Cognitive Neuroscience
     institution: The University of Edinburgh, Scotland
     year: 2015
-  - course: Bachelor's in Cognitive Science
+  - course: MA in Psychology
+    institution: Simon Fraser University, Canada
+    year: 2011    
+  - course: BA in Cognitive Science
     institution: Simon Fraser University, Canada
     year: 2009
 
