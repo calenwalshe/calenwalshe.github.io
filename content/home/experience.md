@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Edinburgh, Scotland"
   date_start = "2011-09-01"
-  date_end   = "2014-05-01"
+  date_end   = "2014-3-01"
 
 [[experience]]
   title = "Research Internship"
