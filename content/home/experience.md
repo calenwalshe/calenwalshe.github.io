@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Research Fellowship"
+  title = "Postdoctoral Researcher"
   company = """The University of Texas at Austin\n
 *Center for Perceptual Systems*\n 
 *The Institute for Neuroscience*
@@ -28,18 +28,18 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
 
 [[experience]]
-  title = "Data Scientist"
-  company = "The Journal"
+  title = "Teaching Fellowship"
+  company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh, Scotland"
-  date_start = "2013-09-01"
-  date_end   = "2015-09-01"
+  date_start = "2011-09-01"
+  date_end   = "2014-05-01"
 
 [[experience]]
   title = "Research Internship"
-  company = "Mediative"
+  company = "Enquiro Search Solutions"
   company_url = ""
   location = "Vancouver, Canada"
-  date_start = "2009-09-01"
-  date_end   = "2011-09-01"
+  date_start = "2010-06-01"
+  date_end   = "2010-12-01"
 +++
