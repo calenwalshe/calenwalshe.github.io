@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   date_start = "2015-08-01"
 
 [[experience]]
-  title = "Teaching Fellowship"
+  title = "Teaching Assistant"
   company = "The University of Edinburgh"
   company_url = ""
   location = "Edinburgh, Scotland"
