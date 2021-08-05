@@ -1,6 +1,6 @@
 ---
 # Display name
-name: R. Calen Walshe 
+name: Calen Walshe 
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Research Fellow
+role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
@@ -29,9 +29,6 @@ education:
   - course: PhD in Cognitive Neuroscience
     institution: The University of Edinburgh, Scotland
     year: 2015
-  - course: MA in Psychology
-    institution: Simon Fraser University, Canada
-    year: 2011    
   - course: BA in Cognitive Science
     institution: Simon Fraser University, Canada
     year: 2009
