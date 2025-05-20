@@ -33,7 +33,8 @@ rsync -av ../themes/academic/exampleSite/content/talk/_index.md ../content/talk/
 # Post processing
 
 # Deactivate Hero
-sed -i '' -e 's/active = true/active = false/' ../content/home/hero.md
+# Use portable sed command across BSD and GNU sed
+sed -i'' -e 's/active = true/active = false/' ../content/home/hero.md
 
 # Manual Steps:
 # - content/home/project.md: Re-comment out project filters
